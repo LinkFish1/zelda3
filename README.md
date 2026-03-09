@@ -18,18 +18,51 @@ I got much assistance from spannerism's Zelda 3 JP disassembly and the other one
 
 ## Chinese Language Support
 
-This fork adds complete Chinese (Simplified) language support. See [README_CN.md](README_CN.md) for details in Chinese.
+This fork adds complete Chinese (Simplified) language support. See [README_CN.md](README_CN.md) for full details in Chinese.
 
+### Features
 - 397 fully translated dialogue lines
-- Pixel-perfect CJK font using [Ark Pixel](https://github.com/TakWolf/ark-pixel-font) 12px (SIL OFL)
+- 1118 CJK characters encoded via escape-prefix scheme, compatible with the original text system
+- Pixel-perfect CJK font using [Ark Pixel 12px](https://github.com/TakWolf/ark-pixel-font) (SIL OFL license)
 - Blue outline + white body text, matching original US font style
 - Supports Mac and Nintendo Switch
 
-To play in Chinese:
-1. Run `python3 tools/generate_font_cn.py` to generate the font
-2. Run `cd assets && python3 restool.py --extract-from-rom --languages cn`
-3. Build with `make`
-4. Set `Language = cn` in `zelda3.ini`
+### Quick Start (Mac)
+
+```bash
+# Generate Chinese font
+python3 tools/generate_font_cn.py
+
+# Extract resources with Chinese language
+cd assets && python3 restool.py --extract-from-rom --languages cn && cd ..
+
+# Build and run
+make
+# Set Language = cn in zelda3.ini
+./zelda3
+```
+
+### Quick Start (Nintendo Switch)
+
+```bash
+# Install devkitPro packages
+sudo dkp-pacman -S switch-dev switch-sdl2 switch-tools
+
+# Set environment
+export DEVKITPRO=/opt/devkitpro
+export PATH=$DEVKITPRO/tools/bin:$DEVKITPRO/devkitA64/bin:$PATH
+
+# Clean Mac objects first (avoid VPATH conflicts)
+make clean_obj
+
+# Build NRO
+cd src/platform/switch
+make clean && make -j$(nproc)
+# Output: zelda3.nro
+```
+
+Copy to Switch SD card `/switch/zelda3/`:
+- `zelda3.nro`, `zelda3_assets.dat`, `zelda3.sfc` (ROM), `zelda3.ini` (set `Language = cn`, `ExtendedAspectRatio = 16:9`)
 
 ## Additional features
 
