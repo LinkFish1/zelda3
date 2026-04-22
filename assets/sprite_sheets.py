@@ -290,7 +290,7 @@ def encode_font_cn():
 
   # Now encode CJK characters (1118 chars) as 16x16 (4 tiles each)
   cjk_font = bytearray()
-  for i in range(1118):
+  for i in range(1158):
     img_idx = 16 + i  # first 16 are punctuation in font_cn.png
     char_col = img_idx % 32
     char_row = img_idx // 32
@@ -299,10 +299,10 @@ def encode_font_cn():
 
     # 4 tiles: TL(8x8), TR(8x8), BL(8x8), BR(8x8)
     tile_data = bytearray(64)
-    encode_one_spr_2bit_generic(cn_font_img, src_y * cn_img_w + src_x, tile_data, 0, cn_img_w)          # TL
-    encode_one_spr_2bit_generic(cn_font_img, src_y * cn_img_w + src_x + 8, tile_data, 16, cn_img_w)     # TR
-    encode_one_spr_2bit_generic(cn_font_img, (src_y + 8) * cn_img_w + src_x, tile_data, 32, cn_img_w)   # BL
-    encode_one_spr_2bit_generic(cn_font_img, (src_y + 8) * cn_img_w + src_x + 8, tile_data, 48, cn_img_w) # BR
+    encode_one_spr_2bit_generic(cn_font_img, src_y * cn_img_w + (src_x + 1), tile_data, 0, cn_img_w)          # TL
+    encode_one_spr_2bit_generic(cn_font_img, src_y * cn_img_w + (src_x + 8 + 1), tile_data, 16, cn_img_w)    # TR
+    encode_one_spr_2bit_generic(cn_font_img, (src_y + 8) * cn_img_w + (src_x + 1), tile_data, 32, cn_img_w)  # BL
+    encode_one_spr_2bit_generic(cn_font_img, (src_y + 8) * cn_img_w + (src_x + 8 + 1), tile_data, 48, cn_img_w)# BR
     cjk_font.extend(tile_data)
 
     # Width: 16 for most CJK, but measure actual width
