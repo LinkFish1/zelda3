@@ -208,169 +208,144 @@ public class MainActivity extends SDLActivity {
                 ViewGroup.LayoutParams.MATCH_PARENT,
                 ViewGroup.LayoutParams.MATCH_PARENT));
 
-        // ---- FLOATING D-PAD -------------------------------------------------
-        // Appears under the finger wherever the player touches the LEFT half.
-        // Uses the cross-plus icon style with 4 rounded arms + diagonal notches.
+        // ---- FIXED D-PAD (8-directional with diagonal support) --------------
+        // Fixed position at bottom-left. Supports UP/DOWN/LEFT/RIGHT and diagonals.
+        // X/Y axes are independent: can press UP+LEFT simultaneously, etc.
 
-        // Transparent full-screen touch catcher for the left half
-        View leftZone = new View(this);
-        leftZone.setBackgroundColor(0x00000000);
-        FrameLayout.LayoutParams lzLp = new FrameLayout.LayoutParams(
-                ViewGroup.LayoutParams.MATCH_PARENT,
-                ViewGroup.LayoutParams.MATCH_PARENT);
-        overlay.addView(leftZone, lzLp);
+        // Shared highlight state for visual feedback: -1=none, 0=up, 45=up-right, etc.
+        final float[] dpadHighlightAngle = {-1f};
 
-        // The D-pad visual -- drawn as 4 rounded arms with diagonal corner cuts
-        final float[] dpadPressAngle = {-1f}; // shared state: -1=none, 0=up,90=right,180=down,270=left
         View dpadView = new View(this) {
             final android.graphics.Paint dpadPaint =
                     new android.graphics.Paint(android.graphics.Paint.ANTI_ALIAS_FLAG);
             final android.graphics.RectF dpadH = new android.graphics.RectF();
             final android.graphics.RectF dpadV = new android.graphics.RectF();
+
             @Override
             protected void onDraw(android.graphics.Canvas c) {
-                float pressAngle = dpadPressAngle[0];
-                android.graphics.Paint p = dpadPaint;
                 float cx = getWidth() / 2f, cy = getHeight() / 2f;
                 float arm = getWidth() * 0.48f, thick = getWidth() * 0.32f;
+                android.graphics.Paint p = dpadPaint;
+
                 // Cross fill
                 p.setColor(0xCC16213E);
-                dpadH.set(cx-arm, cy-thick/2, cx+arm, cy+thick/2);
-                dpadV.set(cx-thick/2, cy-arm, cx+thick/2, cy+arm);
-                android.graphics.RectF h = dpadH, v = dpadV;
-                c.drawRoundRect(h, thick*0.2f, thick*0.2f, p);
-                c.drawRoundRect(v, thick*0.2f, thick*0.2f, p);
+                dpadH.set(cx - arm, cy - thick / 2, cx + arm, cy + thick / 2);
+                dpadV.set(cx - thick / 2, cy - arm, cx + thick / 2, cy + arm);
+                c.drawRoundRect(dpadH, thick * 0.2f, thick * 0.2f, p);
+                c.drawRoundRect(dpadV, thick * 0.2f, thick * 0.2f, p);
+
                 // Cross stroke
                 p.setStyle(android.graphics.Paint.Style.STROKE);
-                p.setStrokeWidth(2f); p.setColor(0xFF4E9AF1); p.setAlpha(140);
-                c.drawRoundRect(h, thick*0.2f, thick*0.2f, p);
-                c.drawRoundRect(v, thick*0.2f, thick*0.2f, p);
-                // Pressed direction highlight
-                if (pressAngle >= 0) {
-                    p.setStyle(android.graphics.Paint.Style.FILL);
-                    p.setColor(0x884E9AF1); p.setAlpha(255);
-                    float rad = (float) Math.toRadians(pressAngle);
-                    float hcx = cx + (float)Math.sin(rad) * arm * 0.5f;
-                    float hcy = cy - (float)Math.cos(rad) * arm * 0.5f;
-                    c.drawCircle(hcx, hcy, thick/2f * 0.85f, p);
-                }
-                // Arrow triangles
+                p.setStrokeWidth(2f);
+                p.setColor(0xFF4E9AF1);
+                p.setAlpha(140);
+                c.drawRoundRect(dpadH, thick * 0.2f, thick * 0.2f, p);
+                c.drawRoundRect(dpadV, thick * 0.2f, thick * 0.2f, p);
                 p.setStyle(android.graphics.Paint.Style.FILL);
-                p.setColor(0xFFB0C4FF); p.setAlpha(255);
+                p.setAlpha(255);
+
+                // Direction highlight (8 directions)
+                if (dpadHighlightAngle[0] >= 0) {
+                    p.setColor(0x664E9AF1); // Semi-transparent blue
+                    float rad = (float) Math.toRadians(dpadHighlightAngle[0]);
+                    float dist = arm * 0.5f;
+                    float hx = cx + (float) Math.sin(rad) * dist;
+                    float hy = cy - (float) Math.cos(rad) * dist;
+                    c.drawCircle(hx, hy, thick * 0.4f, p);
+                }
+
+                // Arrow triangles
+                p.setColor(0xFFB0C4FF);
                 float as = thick * 0.28f;
-                drawA(c, p, cx,        cy-arm+as*1.2f, as,   0);
-                drawA(c, p, cx,        cy+arm-as*1.2f, as, 180);
-                drawA(c, p, cx-arm+as*1.2f, cy,        as, 270);
-                drawA(c, p, cx+arm-as*1.2f, cy,        as,  90);
+                drawA(c, p, cx, cy - arm + as * 1.2f, as, 0);      // Up
+                drawA(c, p, cx, cy + arm - as * 1.2f, as, 180);    // Down
+                drawA(c, p, cx - arm + as * 1.2f, cy, as, 270);    // Left
+                drawA(c, p, cx + arm - as * 1.2f, cy, as, 90);     // Right
             }
+
             private void drawA(android.graphics.Canvas c, android.graphics.Paint p,
                                float x, float y, float s, float deg) {
-                float r = (float)Math.toRadians(deg);
-                float fx = (float)Math.sin(r), fy = -(float)Math.cos(r);
+                float r = (float) Math.toRadians(deg);
+                float fx = (float) Math.sin(r), fy = -(float) Math.cos(r);
                 float rx = fy, ry = -fx;
                 android.graphics.Path path = new android.graphics.Path();
-                path.moveTo(x+fx*s*0.6f, y+fy*s*0.6f);
-                path.lineTo(x-rx*s*0.5f-fx*s*0.5f, y-ry*s*0.5f-fy*s*0.5f);
-                path.lineTo(x+rx*s*0.5f-fx*s*0.5f, y+ry*s*0.5f-fy*s*0.5f);
+                path.moveTo(x + fx * s * 0.6f, y + fy * s * 0.6f);
+                path.lineTo(x - rx * s * 0.5f - fx * s * 0.5f, y - ry * s * 0.5f - fy * s * 0.5f);
+                path.lineTo(x + rx * s * 0.5f - fx * s * 0.5f, y + ry * s * 0.5f - fy * s * 0.5f);
                 path.close();
                 c.drawPath(path, p);
             }
-
         };
         dpadView.setWillNotDraw(false);
 
-        // Start invisible, positioned off-screen
-        int dpadSize = dp(180);
+        // Fixed layout: bottom-left corner
+        int dpadSize = dp(190);
         FrameLayout.LayoutParams dpadLp = new FrameLayout.LayoutParams(dpadSize, dpadSize);
-        dpadLp.gravity = Gravity.TOP | Gravity.START;
-        dpadLp.topMargin = -dpadSize;
-        dpadLp.leftMargin = -dpadSize;
+        dpadLp.gravity = Gravity.BOTTOM | Gravity.START;
+        dpadLp.setMargins(dp(5), 0, 0, dp(65));
         overlay.addView(dpadView, dpadLp);
-        dpadView.setAlpha(0f);
+        dpadView.setAlpha(controllerAlpha);
 
-        // Track active direction for key release
-        final int[] lastDir = {-1};
-        final boolean[] dpadVisible = {false};
+        // 8-directional touch state: 0=UP, 1=DOWN, 2=LEFT, 3=RIGHT
+        final boolean[] dirPressed = {false, false, false, false};
 
-        leftZone.setOnTouchListener((view, e) -> {
-            // Only respond to left half of the screen
-            float screenW = overlay.getWidth();
-            if (screenW > 0 && e.getRawX() > screenW * 0.52f) return false;
+        // Need final reference to dpadView for invalidate() inside listener
+        final View dpadViewRef = dpadView;
 
+        dpadView.setOnTouchListener((view, e) -> {
+            float x = e.getX();
+            float y = e.getY();
+            float w = view.getWidth();
+            float h = view.getHeight();
             int action = e.getAction();
-            float rawX = e.getRawX(), rawY = e.getRawY();
-
-            // Get overlay position to convert raw -> overlay-local coords
-            int[] overlayLoc = new int[2];
-            overlay.getLocationOnScreen(overlayLoc);
-            float lx = rawX - overlayLoc[0];
-            float ly = rawY - overlayLoc[1];
-
-            if (action == MotionEvent.ACTION_DOWN) {
-                // Position d-pad centred on finger
-                FrameLayout.LayoutParams flp =
-                        (FrameLayout.LayoutParams) dpadView.getLayoutParams();
-                flp.leftMargin = (int)(lx - dpadSize / 2f);
-                flp.topMargin  = (int)(ly - dpadSize / 2f);
-                dpadView.setLayoutParams(flp);
-                // Fade in
-                dpadView.setAlpha(0f);
-                dpadView.setVisibility(View.VISIBLE);
-                dpadView.animate().alpha(controllerAlpha).setDuration(80).start();
-                dpadVisible[0] = true;
-            }
-
-            if (action == MotionEvent.ACTION_UP || action == MotionEvent.ACTION_CANCEL) {
-                // Release active direction and hide
-                if (lastDir[0] >= 0) { releaseDir(lastDir[0]); lastDir[0] = -1; }
-                dpadView.animate().alpha(0f).setDuration(120)
-                        .withEndAction(() -> dpadView.setVisibility(View.INVISIBLE)).start();
-                dpadVisible[0] = false;
-                dpadPressAngle[0] = -1f; dpadView.invalidate();
-                return true;
-            }
 
             if (action == MotionEvent.ACTION_DOWN || action == MotionEvent.ACTION_MOVE) {
-                if (!dpadVisible[0]) return true;
-                // Calculate direction relative to dpad centre
-                FrameLayout.LayoutParams flp =
-                        (FrameLayout.LayoutParams) dpadView.getLayoutParams();
-                float dcx = flp.leftMargin + dpadSize / 2f;
-                float dcy = flp.topMargin  + dpadSize / 2f;
-                float dx = lx - dcx, dy = ly - dcy;
-                float dist = (float) Math.sqrt(dx*dx + dy*dy);
+                // Independent axis detection: left/right and up/down are separate
+                boolean newLeft = x < w * 0.33f;
+                boolean newRight = x > w * 0.67f;
+                boolean newUp = y < h * 0.33f;
+                boolean newDown = y > h * 0.67f;
 
-                int newDir = -1;
-                if (dist > dp(14)) { // dead zone
-                    float angle = (float) Math.toDegrees(Math.atan2(dy, dx)); // -180..180
-                    if (angle < 0) angle += 360; // 0..360, 0=right
-                    // Map to UP/DOWN/LEFT/RIGHT
-                    if (angle >= 315 || angle < 45)       newDir = 3; // RIGHT
-                    else if (angle >= 45 && angle < 135)  newDir = 1; // DOWN
-                    else if (angle >= 135 && angle < 225) newDir = 2; // LEFT
-                    else                                   newDir = 0; // UP
-                }
+                // Release directions that are no longer active
+                if (!newLeft && dirPressed[2]) { releaseDir(2); dirPressed[2] = false; }
+                if (!newRight && dirPressed[3]) { releaseDir(3); dirPressed[3] = false; }
+                if (!newUp && dirPressed[0]) { releaseDir(0); dirPressed[0] = false; }
+                if (!newDown && dirPressed[1]) { releaseDir(1); dirPressed[1] = false; }
 
-                if (newDir != lastDir[0]) {
-                    if (lastDir[0] >= 0) releaseDir(lastDir[0]);
-                    lastDir[0] = newDir;
-                    if (newDir >= 0) {
-                        pressDir(newDir);
-                        vibrate(14);
-                        // Visual feedback: highlight pressed arm (0=up,1=down,2=left,3=right -> angles)
-                        float[] angles = {0f, 180f, 270f, 90f};
-                        dpadPressAngle[0] = angles[newDir]; dpadView.invalidate();
-                    } else {
-                        dpadPressAngle[0] = -1f; dpadView.invalidate();
+                // Press newly active directions
+                if (newLeft && !dirPressed[2]) { pressDir(2); dirPressed[2] = true; vibrate(10); }
+                if (newRight && !dirPressed[3]) { pressDir(3); dirPressed[3] = true; vibrate(10); }
+                if (newUp && !dirPressed[0]) { pressDir(0); dirPressed[0] = true; vibrate(10); }
+                if (newDown && !dirPressed[1]) { pressDir(1); dirPressed[1] = true; vibrate(10); }
+
+                // Update visual highlight angle
+                if (newUp && newRight) dpadHighlightAngle[0] = 45;
+                else if (newDown && newRight) dpadHighlightAngle[0] = 135;
+                else if (newDown && newLeft) dpadHighlightAngle[0] = 225;
+                else if (newUp && newLeft) dpadHighlightAngle[0] = 315;
+                else if (newUp) dpadHighlightAngle[0] = 0;
+                else if (newRight) dpadHighlightAngle[0] = 90;
+                else if (newDown) dpadHighlightAngle[0] = 180;
+                else if (newLeft) dpadHighlightAngle[0] = 270;
+                else dpadHighlightAngle[0] = -1;
+
+                dpadViewRef.invalidate();
+                return true;
+
+            } else if (action == MotionEvent.ACTION_UP || action == MotionEvent.ACTION_CANCEL) {
+                // Release all directions
+                for (int i = 0; i < 4; i++) {
+                    if (dirPressed[i]) {
+                        releaseDir(i);
+                        dirPressed[i] = false;
                     }
                 }
+                dpadHighlightAngle[0] = -1;
+                dpadViewRef.invalidate();
                 return true;
             }
             return false;
         });
-
-        // Make leftZone non-blocking for right side (pass through)
-        // (handled above by checking rawX < screenW * 0.52)
 
         // ---- FACE BUTTONS ----------------------------------------------------
         TextView btnB=makeFaceBtn("B",0xFFE74C3C); addBtn(overlay,btnB,dp(56),dp(56),Gravity.BOTTOM|Gravity.END,0,0,dp(71),dp(75)); wire(btnB,KEY_B);
@@ -386,7 +361,7 @@ public class MainActivity extends SDLActivity {
         TextView btnSel=makePillBtn("SELECT"); addBtn(overlay,btnSel,dp(80),dp(30),Gravity.BOTTOM|Gravity.CENTER_HORIZONTAL,0,0,dp(90),dp(16)); wire(btnSel,KEY_SELECT);
         TextView btnSt=makePillBtn("START");   addBtn(overlay,btnSt, dp(80),dp(30),Gravity.BOTTOM|Gravity.CENTER_HORIZONTAL,dp(90),0,0,dp(16)); wire(btnSt,KEY_START);
 
-        alphaTargets = new View[]{btnA,btnB,btnX,btnY,btnL,btnR,btnSel,btnSt};
+        alphaTargets = new View[]{dpadView, btnA, btnB, btnX, btnY, btnL, btnR, btnSel, btnSt};
         for (View v : alphaTargets) v.setAlpha(controllerAlpha);
 
         // ---- DRAWER TAB (draggable) ------------------------------------------
