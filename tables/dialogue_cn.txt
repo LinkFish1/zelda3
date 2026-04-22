@@ -21,7 +21,7 @@
 21: 你知道最酷的是什么吗？[2]站在箱子前，[3]按下A键，铛铛铛！[Waitkey][Scroll]箱子就打开了！
 22: 如果你想留在外面，[2]就和我们士兵聊聊，[3]我们会教你一些东西！
 23: 首先，你必须去[2]村子里拜见长老，[3]然后去拔出大师之剑。
-24: 塞尔达公主？！[2]你没事吧！难道是你[3]一个人救了她，[Name]？[Waitkey]
+24: 塞尔达公主？！[2]你没事吧！难道是你[3]一个人救了她，[Name]？
 25: 我感觉到一股邪恶[2]之力，指引着那个巫师，[3]让他拥有了强大的魔力。[Waitkey][Scroll]现在看来，只有得到[Scroll]传说中的大师之剑，[Scroll]才能击败他。[Waitkey][Scroll]关于大师之剑......[Scroll]也许只有那位，[Scroll]村子里的长老[Waitkey][Scroll]能给你答案。他说[Waitkey][Scroll]自己是当年七贤者中[Scroll]其中一位贤者的后人。[Waitkey][Scroll]或许他能告诉你更多。我在[Sound 45][Scroll]地图上标出了他的住处。[Scroll]但我们必须小心！[Waitkey][Scroll]城堡里面的士兵[Scroll]正在四处搜捕[Scroll]你和公主的行踪！[Waitkey][Scroll]我们不能久留了，[Scroll]我会把塞尔达公主[Scroll]藏在这里的。[Waitkey][Scroll]别担心！去见长老吧！[Waitkey][Scroll]你明白了吗？[Scroll]    > 明白了[Scroll]       不太明白[Choose]
 26: 如果你消灭了巫师，[2]所有的士兵就会[3]脱离控制而恢复正常。[Waitkey][Scroll]努力去寻找纹章吧！
 27: 带着三枚纹章[2]前往森林吧，大师之剑[3]正在那里等候着你。
@@ -29,7 +29,7 @@
 29: 谢谢你，[Name]。我早就感觉[2]到你会来救我的。
 30: 非常感谢你，[Name]！[2]把我从地牢里救了出来！[3]被关押的时候，[Waitkey][Scroll]我听那巫师说，处理完[Scroll]你这最后一个，七贤者的[Scroll]封印就会完全解开。[Waitkey][Scroll][Name]，你绝不能让[Scroll]海拉鲁这片美丽的大陆[Scroll]落入他的手中。[Waitkey][Scroll]一旦他解开了七贤者的[Scroll]封印，这片大陆就会[Scroll]被邪恶吞噬。[Waitkey][Scroll]若真如此，[Scroll]海拉鲁的子民[Scroll]将永无安宁......[Waitkey][Scroll]请在一切发生之前......[Scroll]趁还来得及，[Scroll]你必须打败他，[Waitkey][Scroll]阻止那巫师毁灭海拉鲁！[Scroll]我相信你，[Scroll]你一定可以！
 31: [Name]，一定要小心！[2]我相信你，一定能够[3]平安归来的。
-32: [Window 02][Speed 03]救我......[Waitkey][2]请救救我......[Waitkey][3]我被关在城堡的地牢里。[Scroll]我的名字是塞尔达......[Waitkey][Scroll]那个叫阿格宁的巫师，不知[Scroll]对其他女孩做了什么......她们[Waitkey][Scroll]都不见了......[Scroll]这里只剩下我...[Scroll]阿格宁已经控制了整座[Waitkey][Scroll]城堡，而且他还想解开[Waitkey][Scroll]七贤者的封印......[Waitkey][Scroll]请快来救我......
+32: [Window 02][Speed 03]救我......[Wait 01][2]请救救我......[Waitkey][3]我被关在城堡的地牢里。[Scroll]我的名字是塞尔达......[Waitkey][Scroll]那个叫阿格宁的巫师，[Scroll]不知对其他女孩做了什么......[Waitkey][Scroll]她们都不见了......[Scroll]这里只剩下我...[Waitkey][Scroll]阿格宁已经控制了整座[Scroll]城堡，而且他还想解开[Scroll]七贤者的封印......[Waitkey][Scroll]我被关在城堡的地牢里。[Scroll]请快来救我......
 33: [Window 02][Speed 03]请快来救救我......[Waitkey][2]我被关在城堡[3]的地牢里。[Waitkey][Scroll]城堡外有一条[Scroll]秘密通道，可以直接[Scroll]通往城内的花园。
 34: 王座后有一条秘道[2]可以通到教堂那里。[3]我相信那里的神父[Waitkey][Scroll]会帮助我们。[Scroll]我们必须快点！
 35: 那个装饰架是可以[2]推开的。你有提灯吗？[3]里面非常黑。[Waitkey][Scroll]没有提灯，什么都看不见。[Scroll]准备好了的话，[Waitkey][Scroll]我们就进去吧！帮我到左边[Scroll]把架子推开吧！
