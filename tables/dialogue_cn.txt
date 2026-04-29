@@ -16,48 +16,48 @@
 16: 嘿！这种暴风雨夜，[2]你出来做什么？[3]你这种小孩子，[Waitkey][Scroll]快回家睡觉吧！
 17: 如果你在街上[2]迷路了，可以按[X]键[3]查看地图。[Waitkey][Scroll]也许你早就知道......
 18: 你这小孩，[2]看着还挺有劲儿的。[3]你能搬动多重的东西？[Waitkey][Scroll]当你碰着某个东西时，[Scroll]按住[A]键，可以把它举起来。[Scroll]我打赌你还不知道！[Waitkey][Scroll]......还是说，你其实知道？
-19: 我打赌你迫不及待想弄把像我[2]这样的剑！按[B]键可以挥剑，[3]你可能早就知道了......
+19: 我打赌你等不及想要像我[2]这样的剑！按[B]键可以挥剑，[3]你可能早就知道了......
 20: 看！你地图上的标记正[2]在发光！那一定就是[3]你该去的地方！[Waitkey][Scroll]嗯......我猜这[Scroll]很显而易见。
 21: 你知道最酷的是什么吗？[2]站在箱子前，[3]按下[A]键，铛铛铛！[Waitkey][Scroll]箱子就打开了！[Scroll]不过，这也在意料之中。
 22: 如果你想留在外面，[2]就和我们士兵聊聊，[3]我们会教你一些东西！
 23: 首先，你必须去[2]村子里拜见长老，[3]然后去拔出大师之剑。
-24: 塞尔达公主？！[2]你没事吧！难道是你[3]一个人救了她，[Name]？
-25: 我感觉到一股邪恶[2]之力，指引着那个巫师，[3]让他拥有了强大的魔力。[Waitkey][Scroll]现在看来，只有得到[Scroll]传说中的大师之剑，[Scroll]才能击败他。[Waitkey][Scroll]关于大师之剑......[Scroll]也许只有那位，[Scroll]村子里的长老[Waitkey][Scroll]能给你答案。他说[Waitkey][Scroll]自己是当年七贤者中[Scroll]其中一位贤者的后人。[Waitkey][Scroll]或许他能告诉你更多。我在[Sound 45][Scroll]地图上标出了他的住处。[Scroll]但我们必须小心！[Waitkey][Scroll]城堡里面的士兵[Scroll]正在四处搜捕[Scroll]你和公主的行踪！[Waitkey][Scroll]我们不能久留了，[Scroll]我会把塞尔达公主[Scroll]藏在这里的。[Waitkey][Scroll]别担心！去见长老吧！[Waitkey][Scroll]你明白了吗？[Scroll]    > 明白了[Scroll]       不太明白[Choose]
+24: 塞尔达公主？！[2]你没事吧！难道是你[3]救了她，[Name]？
+25: 我感觉到一股邪恶[2]之力，指引着那个巫师，[3]让他拥有了强大的魔力。[Waitkey][Scroll]现在看来，只有得到[Scroll]传说中的大师之剑，[Scroll]才能击败他。[Waitkey][Scroll]关于大师之剑......[Scroll]也许只有那位，[Scroll]村子里的长老[Waitkey][Scroll]知道它的下落。[Scroll]据说他是当年七贤者中[Scroll]其中一位贤者的后人。[Waitkey][Scroll]或许他能告诉你更多。我在[Sound 45][Scroll]地图上标出了他的住处。[Scroll]但我们必须小心！[Waitkey][Scroll]城堡里面的士兵[Scroll]正在四处搜捕[Scroll]你和公主的行踪！[Waitkey][Scroll]你们两个不能呆在一起，[Scroll]我会把塞尔达公主[Scroll]藏在这里的。[Waitkey][Scroll]别担心！去见长老吧！[Waitkey][Scroll]你明白了吗？[Scroll]    > 明白了[Scroll]       不太明白[Choose]
 26: 如果你消灭了巫师，[2]所有的士兵就会[3]脱离控制而恢复正常。[Waitkey][Scroll]努力去寻找纹章吧！
-27: 带着三枚纹章[2]前往森林吧，大师之剑[3]正在那里等候着你。
-28: [Name]！还是晚了一步。[2]我...我实在太没用了......[3]他们掳走了塞尔达公主，[Waitkey][Scroll]恐怕已经带回城堡了......[Waitkey][Scroll]塞尔达很可能会变成祭品！[Scroll]在巫师对她施法之前，[Waitkey][Scroll]赶快把她救出来！[Scroll]求你了，[Name]......[Scroll]你是唯一的希望......
+27: 带着三枚纹章[2]前往迷途森林吧，大师之剑[3]正在那里等候着你。
+28: [Name]！还是晚了一步。[2]刚才一群士兵闯了进来......[3]他们掳走了塞尔达公主，[Waitkey][Scroll]我担心他们已经[Scroll]把她带到了城堡塔[Scroll]最高处的房间。[Waitkey][Scroll]塞尔达很可能会变成祭品！[Scroll]在巫师对她施法之前，[Scroll]赶快把她救出来！[Waitkey][Scroll]求你了，[Name]......[Scroll]你是唯一的希望......
 29: 谢谢你，[Name]。我早就感觉[2]到你会来救我的。
 30: 非常感谢你，[Name]！[2]把我从地牢里救了出来！[3]被关押的时候，[Waitkey][Scroll]我听那巫师说，处理完[Scroll]你这最后一个，七贤者的[Scroll]封印就会完全解开。[Waitkey][Scroll][Name]，你绝不能让[Scroll]海拉鲁这片美丽的大陆[Scroll]落入他的手中。[Waitkey][Scroll]一旦他解开了七贤者的[Scroll]封印，这片大陆就会[Scroll]被邪恶吞噬。[Waitkey][Scroll]若真如此，[Scroll]海拉鲁的子民[Scroll]将永无安宁......[Waitkey][Scroll]请在一切发生之前......[Scroll]趁还来得及，[Scroll]你必须打败他，[Waitkey][Scroll]阻止那巫师毁灭海拉鲁！[Scroll]我相信你，[Scroll]你一定可以！
 31: [Name]，一定要小心！[2]我相信你，一定能够[3]平安归来的。
-32: [Window 02][Speed 03]救我......[Wait 01][2]请救救我......[3]我被关在城堡的地牢里。[Waitkey][Scroll]我的名字是塞尔达......[Scroll]那个叫阿格宁的巫师，[Scroll]不知对其他女孩做了什么......[Waitkey][Scroll]她们都不见了......[Scroll]这里只剩下我...[Waitkey][Scroll]阿格宁已经控制了整座[Scroll]城堡，而且他还想解开[Scroll]七贤者的封印......[Waitkey][Scroll]我被关在城堡的地牢里。[Scroll]请快来救我......
+32: [Window 02][Speed 03]救我......[Wait 01][2]请救救我......[3]我被关在城堡的地牢里。[Waitkey][Scroll]我的名字是塞尔达......[Scroll]那个叫阿格宁的巫师，[Scroll]对其他的女孩们做了[Waitkey][Scroll]非常可怕的事情......[Scroll]现在只剩下我一个人了......[Waitkey][Scroll]阿格宁已经控制了整座[Scroll]城堡，而且他还想解开[Scroll]七贤者的封印......[Waitkey][Scroll]我被关在城堡的地牢里。[Scroll]请快来救我......
 33: [Window 02][Speed 03]请快来救救我......[Waitkey][2]我被关在城堡[3]的地牢里。[Waitkey][Scroll]城堡外有一条[Scroll]秘密通道，可以直接[Scroll]通往城内的花园。
 34: 王座后有一条秘道[2]可以通到教堂那里。[3]我相信那里的神父[Waitkey][Scroll]会帮助我们。[Scroll]我们必须快点！
 35: 那个装饰架是可以[2]推开的。你有提灯吗？[3]里面非常黑。[Waitkey][Scroll]没有提灯，什么都看不见。[Scroll]准备好了的话，[Waitkey][Scroll]我们就进去吧！帮我到左边[Scroll]把架子推开吧！
 36: 要拉动这些开关，[2]才能打开门。按住[A]键[3]并同时按方向键[Down]。
-37: 快！趁巫师未察觉，[2]我们马上离开！[3]我知道一条秘道，[Waitkey][Scroll]先去大厅，[Waitkey][Scroll]我们一起走！
+37: 快！趁巫师未察觉，[2]我们马上离开！[3]我知道一条秘道，[Waitkey][Scroll]先去一楼大厅，[Waitkey][Scroll]我们快走！
 38: [Name]，听我说。[2]城堡里的士兵，都被[3]巫师的魔法操控了。[Waitkey][Scroll]我担心父亲[Waitkey][Scroll]可能已经遭遇不测......[Scroll]那个巫师，实在太残忍了！[Scroll]他的力量，太强大了......[Waitkey][Scroll].........[Waitkey][Scroll]你明白吗？[Scroll]    > 明白了[Scroll]       不太明白[Choose]
 39: 你就按照长老[2]在地图上标记的[3]地方去找吧！[Waitkey][Scroll]要是不知道接下来[Scroll]做什么，就去找占卜师[Scroll]问问吧。
 40: [Name]，你太出色了！[2]果然，勇者的力量[3]就蕴藏在你体内！[Waitkey][Scroll]现在只差那大师之剑了。[Scroll]你一定能够打倒巫师的！
 41: [Window 02][Speed 03][Name]！快来！有许多[2]士兵闯进教堂了！[3]啊啊啊！[Waitkey][Scroll]............
 42: 再过几条下水道，[2]就可以走到[3]教堂了！[Waitkey][Scroll]我们要小心一点！
 43: 教堂就在这扇门[2]的后面。去那里[3]拉开开关吧。
-44: 谁？哟，是你呀，[Name]！[2]像我这样的老骨头能帮[3]你们年轻人做什么？[Waitkey][Scroll]谁？长老？哟......自从那个巫[Scroll]师到处捉拿七贤者的后人[Scroll]之后，就没见过他了......[Waitkey][Scroll]什么？大师之剑？呵呵，[Waitkey][Scroll]很多东西我记得都[Scroll]不是太清楚了，不过......
+44: 谁？哟，是你呀，[Name]！[2]像我这样的老骨头能帮[3]你们年轻人做什么？[Waitkey][Scroll]谁？长老？哟......自从那个巫[Scroll]师到处捉拿祭品[Scroll]之后，就没见过他了......[Waitkey][Scroll]什么？大师之剑？呵呵，[Waitkey][Scroll]很多东西我记得都[Scroll]不是太清楚了，不过......
 45: 很久以前，这片大陆上[2]居住者勤劳勇敢的[3]伟大的海利亚人[Waitkey][Scroll]传说他们在这片土地上[Scroll]埋藏了无数的奇珍异宝，[Waitkey][Scroll]大师之剑就是其中之一，[Scroll]传说这把剑是专门造来[Scroll]对付邪恶的强力武器......[Waitkey][Scroll]据说这把剑现在正在[Scroll]森林的深处沉睡着。[Waitkey][Scroll]听明白这个传说了吗？[Scroll]    > 明白了[Scroll]       不太明白[Choose]
 46: 总之，去找长老吧。[2]村子里可能有人[3]知道他去了哪里。[Waitkey][Scroll][Name]......[Waitkey][Scroll]小心呀......
-47: [Name]！你变强了[2]很多。拜托你，[3]请救救我们吧。
+47: 噢，[Name]。你变了！[2]你看上去气宇不凡......[3]请从巫师阿格宁手中[Waitkey][Scroll]救救这个村子吧！
 48: 哇！这是[Name]...通缉犯！[2]他已经闯到这里来了，[3]士兵！快来人啊！
 49: 嗯......你终于[2]集齐三枚纹章了！[3]是时候前往迷途森林了。[Waitkey][Scroll][Waitkey][Scroll]若你真正拥有勇气，[Scroll]那把剑将会认你为主...
-50: 我已经帮不上什么忙了......[2]但我相信，你一定[3]可以完成这一切......
+50: 我已经是个老头子了。[2]我甚至连剑柄都握不住......[3]你是我唯一的希望。
 51: 没错，我就是萨哈斯拉拉，[2]我是卡卡利科村的长老，[3]也是七贤者的后人。[Waitkey][Scroll]......哦？真的？[Name]，[Waitkey][Scroll]没想你这么年轻，就要去[Scroll]寻找斩妖除魔的大师之剑。[Scroll]不过，并非所有人[Waitkey][Scroll]都能拿起大师之剑。[Scroll]传说中只有击败三大魔物、[Scroll]获得三枚纹章的勇者，[Waitkey][Scroll]才有资格使用它。[Waitkey][Scroll]你真的想得到它吗？[Scroll]    > 是的......！[Scroll]       当然！[Choose]
 52: 很好。但我要先[2]看看你的实力，[3]你能去东部神殿，[Waitkey][Scroll]取回勇气纹章吗？[Scroll]若你能带回来，[Scroll]我会告诉你更多事情。[Waitkey][Scroll]现在就去东部神殿吧！
-53: 或许还有其他七贤者[2]的后人，正遭到城堡[3]士兵的追捕，[Name]，[Waitkey][Scroll]前去寻找他们吧。
-54: [Window 02][Speed 03][Name]，是我萨哈斯拉拉。[2]我正通过心灵感应，在虚无[3]的空间中与你对话。[Waitkey][Scroll]你现在所处之地，[Scroll]原本是黄金大陆，[Scroll]却已被邪恶之力侵蚀，[Waitkey][Scroll]堕落为黑暗世界。[Scroll]那个巫师已经解开了[Scroll]七贤者的封印，[Waitkey][Scroll]并在海拉鲁城中打开[Scroll]了连接两个世界的通道。[Scroll]为了拯救我们仅存的世界......[Waitkey][Scroll]光明世界，你必须夺回[Scroll]黄金之力。同时，你必须[Scroll]解救被阿格宁用魔法[Waitkey][Scroll]送入黑暗世界的七位少女。[Scroll]她们是七贤者的后裔，[Scroll]她们的力量，将会成为[Waitkey][Scroll]你的重要助力。但她们如今[Scroll]被囚禁在机关重重、[Scroll]魔物横行的隐秘之地。[Waitkey][Scroll]现在，前往暗之神殿吧！[Scroll]你是我们最后的希望......[Scroll]千万不要让我们这些[Waitkey][Scroll]老人失望......拜托你了！
+53: 或许还有其他七贤者[2]的后人，正遭到巫师[3]随从的追捕，[Name]，[Waitkey][Scroll]前去寻找他们吧。
+54: [Window 02][Speed 03][Name]，是我萨哈斯拉拉。[2]我正通过心灵感应，在虚无[3]的空间中与你对话。[Waitkey][Scroll]你现在所处之地，[Scroll]原本是黄金大陆，[Scroll]却已被邪恶之力侵蚀，[Waitkey][Scroll]堕落为黑暗世界。[Scroll]那个巫师已经解开了[Scroll]七贤者的封印，[Waitkey][Scroll]并在海拉鲁城入口处打开[Scroll]了连接两个世界的通道。[Scroll]为了拯救这半个世界，[Waitkey][Scroll]光明世界，你必须夺回[Scroll]黄金之力。同时，你必须[Scroll]解救被阿格宁用魔法[Waitkey][Scroll]送入黑暗世界的七位少女。[Scroll]她们是七贤者的后裔，[Scroll]她们的力量，将会成为[Waitkey][Scroll]你的重要助力。但她们如今[Scroll]被囚禁在机关重重、[Scroll]魔物横行的隐秘迷宫。[Waitkey][Scroll]现在，前往暗之神殿吧！[Scroll]你是我们最后的希望......[Scroll]千万不要让我们这些[Waitkey][Scroll]老人失望......拜托你了！
 55: [Window 02][Speed 03]不过，你现在的样子[2]恐怕什么也做不了......[3]去海布拉山的塔上[Waitkey][Scroll]寻找月之珍珠吧。[Scroll]它能够抵御黑暗世界的[Scroll]邪恶之力，让你保持[Waitkey][Scroll]原本的形态。
 56: 海利亚湖东边的洞穴里[2]藏着一件有用的宝物，[3]去找找看吧！
 57: 哦？你拿到勇气纹章了！[2]很好，现在我就告诉你[3]更多的传说吧......[Waitkey][Scroll]几代以前，有一支[Scroll]骁勇善战的海拉鲁[Scroll]骑士团。[Waitkey][Scroll]他们保卫着海拉鲁王国，[Scroll]同时也守护着勇气纹章。[Waitkey][Scroll]他们说过，无论何时[Scroll]当王室家族遇到灾难时，[Scroll]一个拥有海拉鲁骑士[Waitkey][Scroll]华贵血统的英雄[Scroll]将会诞生......[Scroll]不幸的是，在七贤者施法[Waitkey][Scroll]封印的时候，[Scroll]为了保护他们[Waitkey][Scroll]不受恶魔的伤害，[Scroll]大部分的骑士都已经[Scroll]牺牲了，所以也不会[Waitkey][Scroll]有英雄诞生了......[Scroll]但是，瞧！我相信[Scroll]你是我们的英雄，[Name]！[Waitkey][Scroll]去寻找剩下的纹章吧。[Scroll]带上这个，这是贤者们[Scroll]一代一代传下来的。
 58: 我就是萨哈斯拉拉，[2]本村的长老，[3]也是七贤者的后人。[Waitkey][Scroll]......原来如此[Waitkey][Scroll][Name]，原来像你这般年轻的人[Scroll]竟在寻找大师之剑，[Scroll]实在令我意外。[Waitkey][Scroll]此剑并非人人都可驾驭。[Scroll]传说只有打败三大魔物、[Scroll]获得三枚纹章的勇者[Waitkey][Scroll]才能成为它的主人。[Waitkey][Scroll]啊，我看你已经获得了[Scroll]勇气纹章。那好，[Scroll]我给你讲个故事。[Waitkey][Scroll]很久以前，有一支骑士部族[Scroll]世代守护着海拉鲁王族。[Scroll]这个氏族被称为骑士一族，[Waitkey][Scroll]同时也是勇气纹章[Scroll]的守护者。[Waitkey][Scroll]在七贤者施法封印时，[Scroll]他们大多在与恶魔的[Scroll]激战中壮烈牺牲。[Waitkey][Scroll]但传说中，一定有一位[Scroll]勇者会从骑士部族的后代中[Scroll]出生。[Waitkey][Scroll]......我懂了。[Scroll]你肯定就是那位勇者，[Waitkey][Scroll]去集齐剩下的纹章吧，[Scroll]还有，收下这个。[Scroll]这是我家世代[Waitkey][Scroll]相传的宝物。
-59: 找到七贤者后人的，[2]赏赐100卢比。[3]——国王
-60:         [LinkL][LinkR]  通缉令！[2]此人[Name]是绑架[3]塞尔达公主的犯人。[Waitkey][Scroll]见到他就马上叫士兵来！
+59: 找到七贤者后人的，[2]赏赐100卢比。[3]--国王
+60:    [LinkL][LinkR]  通缉令！[2]此人[Name]是绑架[3]塞尔达公主的犯人。[Waitkey][Scroll]见到他就马上叫士兵来！
 61: 危险！[2]没有国王的命令，[3]不能攀登海布拉山！
 62: 这条路通往[2]      [Up] 迷途森林
 63: 前方危险！[2]小心深水，还有卓拉！
@@ -135,7 +135,7 @@
 135: 准备好了没有？
 136: 好的，小家伙，[2]想玩随时过来，[3]祝你玩得开心！[Waitkey][Scroll]再见！
 137: 还要继续吗？[2]    > 继续[3]       算了[Choose]
-138:     ——幸运池塘——[2]投入一些卢比，[3]你的愿望就会实现了。[Waitkey][Scroll]要扔一些卢比吗？[Scroll]    > 扔一些[Scroll]       算了[Choose]
+138:     --幸运池塘--[2]投入一些卢比，[3]你的愿望就会实现了。[Waitkey][Scroll]要扔一些卢比吗？[Scroll]    > 扔一些[Scroll]       算了[Choose]
 139: 按方向键选择道具，[2]然后按[Y]键投掷出去。[Item]
 140: 你好呀，这个是你扔掉的吗？[2]    > 是的[3]       不是我的[Choose]
 141: 我喜欢诚实的人，[2]所以我会给你一样[3]更好的东西作为回报！
@@ -272,7 +272,7 @@
 272: 举起大师之剑，[2]你就能学到爆炎魔法。
 273: 你这家伙！竟敢[2]打扰我睡觉！[3]......我是说非常感谢你。[Waitkey][Scroll]......等一下！现在我要[Scroll]报仇了，你准备受死吧！[Waitkey][Scroll]......你准备好了吗？
 274: ......咔咔咔！接招吧！[2]可怜啊，你的魔力消耗[3]变成一半咯。[Waitkey][Scroll]...怎么样...还挺有意思吧？[Waitkey][Scroll]不过，这点还不够，[Scroll]我也只能帮到这了。[Waitkey][Scroll]......好好玩吧。再见！
-275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]很久很久以前，在群山与[2]森林环绕之中，有一个[3]美丽的王国——海拉鲁。[Wait 03][Scroll]传说在某个神秘之地，[Scroll]隐藏着能让人无所不能[Scroll]无所不知的黄金之力。[Wait 05][Scroll]无数人为了得到它，[Scroll]彼此争斗，纷纷闯入[Scroll]那神秘的黄金大陆......[Wait 03][Scroll]......然而，没有一个人回来。[Wait 05][NextPic][NextPic][Scroll]终于有一天，邪恶的力量[Scroll]开始从黄金大陆渗出......[Scroll]国王立刻下令，召集当时法力[Wait 05][Scroll]最强大的七位贤者，将通往[Scroll]黄金大陆的入口彻底封印。[Scroll]那道封印的力量，[Wait 05][NextPic][NextPic][Scroll]足以将两个世界[Scroll]永远隔绝......[Scroll]随着岁月流逝，[Wait 05][NextPic][NextPic][Scroll]这段往事逐渐被人遗忘，[Scroll]最终只留下一个古老的传说。[Wait 05][Scroll]
+275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]很久很久以前，在群山与[2]森林环绕之中，有一个[3]美丽的王国--海拉鲁。[Wait 03][Scroll]传说在某个神秘之地，[Scroll]隐藏着能让人无所不能[Scroll]无所不知的黄金之力。[Wait 05][Scroll]无数人为了得到它，[Scroll]彼此争斗，纷纷闯入[Scroll]那神秘的黄金大陆......[Wait 03][Scroll]......然而，没有一个人回来。[Wait 05][NextPic][NextPic][Scroll]终于有一天，邪恶的力量[Scroll]开始从黄金大陆渗出......[Scroll]国王立刻下令，召集当时法力[Wait 05][Scroll]最强大的七位贤者，将通往[Scroll]黄金大陆的入口彻底封印。[Scroll]那道封印的力量，[Wait 05][NextPic][NextPic][Scroll]足以将两个世界[Scroll]永远隔绝......[Scroll]随着岁月流逝，[Wait 05][NextPic][NextPic][Scroll]这段往事逐渐被人遗忘，[Scroll]最终只留下一个古老的传说。[Wait 05][Scroll]
 276: [Window 02][Color 07][Speed 03][1]然而有一天......[2]一个叫阿格宁的[3]邪恶巫师来到了海拉鲁，[Wait 02][Scroll]要解开七贤者的封印......[Scroll]他先是暗算了海拉鲁[Scroll]王国善良的国王......[Wait 04][Wait 05]
 277: [Window 02][Color 07][Speed 03][1]接着又用邪恶的魔法，[2]将七贤者的后人，[3]一个又一个地[Wait 02][Scroll]逐......个......消......除。[Wait 04][Wait 05]
 278: [Window 02][Color 07][Speed 03][1]同样的命运，[2]也即将降临到[3]塞尔达公主的身上......[Wait 03][Wait 05]
@@ -328,7 +328,7 @@
 328: 嘿呀，[Name]！[2]长老？你是说爷爷吗？[3]我知道他在哪里，[Waitkey][Scroll]不过，你可千万别让[Scroll]坏人知道哦！[Scroll]他往城堡东边，[Waitkey][Scroll]神殿的方向去了。[Scroll]我帮你在地图上标出来，[Scroll]你去去找他吧！[Sound 45]
 329: 你找到爷爷了吗？[2]等坏人都离开村子，[3]爷爷就可以回来了。
 330: 哟，这张脸，我可没见过！[2]你也是为了黄金之力[3]而来的吗？[Waitkey][Scroll]不过很可惜你来晚了。[Scroll]他只会听从第一个[Waitkey][Scroll]触碰它的人的意志。[Scroll]而那个人......[Scroll]已经将这个世界，[Waitkey][Scroll]扭曲成了如今这副模样。[Waitkey][Scroll]正如他那颗堕落而邪恶的心。[Scroll]我也是，为了得到那份[Scroll]力量才来到这里。[Waitkey][Scroll]可结果呢？看看我[Scroll]现在这副模样......[Scroll]如果想让黄金大陆[Waitkey][Scroll]恢复原状，就必须由一个[Scroll]真正有资格的人，[Waitkey][Scroll]去打倒创造了这个世界的人。[Scroll]到那时......我或许也能，[Waitkey][Scroll]摆脱这副令人厌恶的形态。[Scroll]不过，这终究只是个[Scroll]遥不可及的幻想......[Scroll]黄金之力......三角神力......
-331:        ——神秘之泉——[2]要扔点什么进去吗？[3]你想怎么做？[Waitkey][Scroll]    > 扔件道具[Scroll]       不了[Choose]
+331:        --神秘之泉--[2]要扔点什么进去吗？[3]你想怎么做？[Waitkey][Scroll]    > 扔件道具[Scroll]       不了[Choose]
 332: 不扔了！
 333: 不扔了！
 334: 东西还给你，[2]不要再扔了！
