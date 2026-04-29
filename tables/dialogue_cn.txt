@@ -11,7 +11,7 @@
 11: [Speed 00][1]  [2]>[Choose2]
 12: [Speed 00][3]    [2]  >[Selchg]
 13: [Speed 00][2]    [3]  >[Selchg]
-14: [Name]，[2]我要出去一趟，[3]你不用担心。[Waitkey][Scroll]我天亮就回来，[Scroll]但在那之前，[Scroll]我不希望你离开家门......[Waitkey][Scroll]回床上去睡吧......[Scroll]等着我回来。
+14: [Name]，[2]我要出去一趟，[3]你不用担心。[Waitkey][Scroll]我天亮就回来，[Scroll]但在那之前，[Scroll]我希望你不要外出......[Waitkey][Scroll]回床上去睡吧......[Scroll]等着我回来。
 15: 嗯......这声音......[Name]？[2]是你吗？我不是让你[3]在家等着吗......[Waitkey][Scroll]也许这就是无法逃避的[Scroll]命运...来...在这里，拿起[Waitkey][Scroll]我的剑和盾。[Scroll]我教你如何使用。[Scroll]这是海拉鲁骑士[Waitkey][Scroll]的剑术奥义......按住[Scroll][B]键，让力量汇聚剑锋，[Scroll]再放开释放。[Waitkey][Scroll][Name]......你必须去救[Scroll]塞尔达公主。这是我们[Scroll]的命运。[Waitkey][Scroll]但不要成为...命运[Scroll]的牺牲品......[Name]......[Scroll]我永远记着......[Waitkey][Scroll]我们在......一起的时光......
 16: 嘿！这种暴风雨夜，[2]你出来做什么？[3]你这种小孩子，[Waitkey][Scroll]快回家睡觉吧！
 17: 如果你在街上[2]迷路了，可以按[X]键[3]查看地图。[Waitkey][Scroll]也许你早就知道......
@@ -70,7 +70,7 @@
 70: 这条路通往[2]      [Right] 东部神殿[3]      [Left] 海拉鲁城堡
 71: 海利亚湖
 72: 我只是一个普通人。[2]不要和我说话。[3]不要移动这牌子。
-73:     伐木工之家[2]             A作和Q作的房子
+73:     伐木工之家[2]             A作，B作和Q作的房子
 74: 这条路通往[2]      [Down] 卡卡利科村
 75: 咕嘟咕嘟......[2]正在为你熬制[3]蘑菇药水......
 76: 嘿嘿......谢谢你啊，年轻人...[2]晚点儿再来商店，[3]到时候有好东西给你......[Waitkey][Scroll]嘿嘿嘿！
@@ -126,11 +126,11 @@
 126: 哇！[2]我已经几百年都[3]没见过正常人了。[Waitkey][Scroll]我的天，真想聊会儿天。[Scroll]给你讲个故事吧......
 127: 关于这个村子里的[2]石像鬼。听说能从它[3]下面隐约听到[Waitkey][Scroll]一个女孩在呼救。[Waitkey][Scroll]你说奇怪不奇怪，[Scroll]如果你问我的话......
 128: 据说三角神力因为[2]加侬的愿望而[3]改变了这个世界。[Waitkey][Scroll]他的愿望是什么？[Scroll]成为全世界的王。[Waitkey][Scroll]不知道等他从黑暗世界[Scroll]攒够能量后，[Scroll]会不会如愿......
-129: 我住在光明世界的[2]迷途森林中，误入了[3]一个魔法传送门......[Waitkey][Scroll][Waitkey][Scroll]回过神来，我已经变成了[Scroll]现在这棵树的样子......[Scroll]我想这两座森林[Waitkey][Scroll]一定是连在一起的。
+129: 我住在光明世界的[2]迷途森林中，误入了[3]一个魔法传送门......[Waitkey][Scroll]黑暗世界的力量把我变成了[Scroll]现在这棵树的样子......[Scroll]我想这两座森林[Waitkey][Scroll]一定是连在一起的。
 130: 听说炸弹是独眼[2]巨人西诺克斯[3]的克星。[Waitkey][Scroll]我知道的就是这些！
-131: 汪汪汪！不要再[2]骚扰我们这些树了！
-132: 你获得了智慧纹章！[Waitkey][2]有了它，三枚纹章[3]就全部集齐了！[Waitkey][Scroll]赶紧前往迷途森林，[Scroll]去拔出大师之剑吧！
-133: 你获得了力量纹章！[2]觉得自己变得[3]更加强大了！[Waitkey][Scroll]去拿最后一枚纹章吧。
+131: 别来烦我！[2]还有你在冲刺的时候，[3]看着点路！
+132: 你获得了力量纹章！[Waitkey][2]有了它，三枚纹章[3]就全部集齐了！[Waitkey][Scroll]赶紧前往迷途森林，[Scroll]去拔出大师之剑吧！
+133: 你获得了智慧纹章！[2]觉得自己变得[3]更加强大了！[Waitkey][Scroll]去拿最后一枚纹章吧。
 134: 你好！这里是[2]射击场。花20卢比[3]就可以射5支箭。[Waitkey][Scroll]连续命中可以[Scroll]赢得丰厚奖励！[Waitkey][Scroll]怎么样，小家伙？[Scroll]    > 露两手[Scroll]       不行[Choose]
 135: 准备好了没有？
 136: 好的，小家伙，[2]想玩随时过来，[3]祝你玩得开心！[Waitkey][Scroll]再见！
@@ -156,7 +156,7 @@
 156: 嗯，那就往右边走吧......[Waitkey][2]说起来，我有一个[3]和你差不多年纪的[Waitkey][Scroll]孙女。她被带到城里后[Scroll]就再也没有回来。[Scroll]那些女孩子被抓走了，[Waitkey][Scroll]一定是因为巫师的阴谋。[Scroll]他肯定是想借此[Scroll]利用七贤者后人的[Waitkey][Scroll]力量......在暗中策划着[Scroll]什么邪恶的计划。
 157: 我不认识你，可是......[2]如果你也要上山，[3]能不能带我一起走？[Waitkey][Scroll]我把提灯弄丢了，[Scroll]现在......真的有点害怕。
 158: 那些失踪的女孩子[2]一定还在某个地方活着，[3]会有一个勇者去救她们的...[Waitkey][Scroll]我会等到那一天的......[Waitkey][Scroll]唉，在这里说话其实很危险。[Scroll]不管怎样......[Scroll]非常感谢你这么好心肠。[Waitkey][Scroll]肯带我这样的老头子上山。[Waitkey][Scroll]收下这个吧。[Scroll]要是你不小心[Scroll]走进了魔法传送点，[Waitkey][Scroll]就看看这面镜子。
-159: 那个巫师欺骗了国王，[2]现在正试图打开通往[3]黑暗世界的通道。[Waitkey][Scroll]为了接下来的冒险，[Waitkey][Scroll]你必须前往这座山顶的[Scroll]城堡，找到一件名为[Scroll]月之珍珠的宝物。[Waitkey][Scroll]至于现在，我能为你做的，[Scroll]也只有帮你消除疲劳......[Scroll]随时欢迎你来坐坐。
+159: 那个巫师欺骗了国王，[2]现在正试图打开通往[3]黑暗世界的通道。[Waitkey][Scroll]为了接下来的冒险，[Waitkey][Scroll]你必须前往这座山顶的[Scroll]高塔，找到一件名为[Scroll]月之珍珠的宝物。[Waitkey][Scroll]至于现在，我能为你做的，[Scroll]也只有帮你消除疲劳......[Scroll]随时欢迎你来坐坐。
 160: 月之珍珠是为前往[2]圣地的勇者准备的[3]宝物。[Waitkey][Scroll]它能保护勇者不受[Scroll]黑暗之力的影响。[Waitkey][Scroll]你既然已经得到了它，[Scroll]你一定就是我一直[Scroll]等待的勇者。[Waitkey][Scroll]请去拯救女孩们吧！
 161: [Name]，是你吗？[2]我推测巫师在城堡附近打开[3]了连接两个世界的通道。[Waitkey][Scroll]如果你要前往黑暗世界，[Scroll]那里应该就是你[Scroll]下一个目的地。
 162: 唉.....我可怜的、爱吹笛[2]子的儿子......已经好久[3]没听到他的笛声了......[Waitkey][Scroll]自从他去寻找黄金之力后，[Waitkey][Scroll]就再也没有回来......[Scroll]真想知道，他现在在哪里...[Scroll]又在做些什么......
@@ -189,7 +189,7 @@
 189: [Ankh][Snake][Ankh][Waves][Ankh][Snake][Ankh][Waves][Ankh][Waves][Ankh][2][Ankh][Waves][Ankh][Snake][Ankh][Snake][Ankh][Waves][Ankh][Snake][3][Ankh][Waves][Ankh][Snake][Ankh][Snake][Ankh][Waves][Ankh][Snake][Ankh]
 190: 想打开前进的路吗......[2]就在这里许个愿吧......[3]你会如愿的。
 191: [Window 02]加侬被打呆住的时候，[2]一定要用银之箭[3]解决它。[Waitkey][Scroll][Name]，我相信你[Scroll]一定能成功的。
-192: [Window 02][Name]，你能听见我的[2]声音吗？是我，塞尔达。[3]我被囚禁在死亡[Waitkey][Scroll]山顶的乌龟岩之中。[Waitkey][Scroll]我知道你已经很努力了，[Scroll]但还是请你加快一点步伐。
+192: [Window 02][Name]，你能听见我的[2]声音吗？是我，塞尔达。[3]我被囚禁在死亡之山[Waitkey][Scroll]山顶的乌龟岩之中。[Waitkey][Scroll]我知道你已经很努力了，[Scroll]但还是请你加快一点步伐。
 193: [Window 02][Name]，是我萨哈斯拉拉。[2]你要尽量把各个迷宫[3]里所有宝物都找出来。
 194: [Window 02]听好了，[Name]。[2]即使是大师之剑，[3]也无法伤到巫师的肉身。[Waitkey][Scroll]你必须想办法[Scroll]让他的魔法打到他自己。
 195: [Window 02][Name]，小心不要用光[2]所有的魔力，只有[3]带着恢复魔力的药水时[Waitkey][Scroll]才能深入迷宫，[Scroll]千万不要鲁莽行事。
@@ -262,7 +262,7 @@
 262: 我生病了，没法出门[2]......咳咳......[3]大家都说，这是因为[Waitkey][Scroll]那些魔物......山上和森林[Scroll]里弥漫着奇怪的魔气......[Scroll]咳咳......[Waitkey][Scroll]这个捕虫网给你吧......[Scroll]等我病好了再玩，[Scroll]你先拿去用吧......
 263: 咳......[2]我真想马上就好......[3]咳 咳......
 264: ..................
-265: 你干嘛呢？
+265: 你干嘛拿走我的牌子？[2]上面写得清清楚楚[3]离我远点！真是的！
 266: 你知道我以前[2]是个盗贼吧？[3]我可以打开这个箱子，[Waitkey][Scroll]但你得替我保密。[Waitkey][Scroll]你能保证吗？[Scroll]    > 我保证[Scroll]       见人就讲[Choose]
 267: 好吧，你要是不答应，[2]就拖着这个箱子[3]过一辈子吧！
 268: 记住，对谁都[2]不许说哦......
@@ -272,10 +272,10 @@
 272: 举起大师之剑，[2]你就能学到爆炎魔法。
 273: 你这家伙！竟敢[2]打扰我睡觉！[3]......我是说非常感谢你。[Waitkey][Scroll]......等一下！现在我要[Scroll]报仇了，你准备受死吧！[Waitkey][Scroll]......你准备好了吗？
 274: ......咔咔咔！接招吧！[2]可怜啊，你的魔力消耗[3]变成一半咯。[Waitkey][Scroll]...怎么样...还挺有意思吧？[Waitkey][Scroll]不过，这点还不够，[Scroll]我也只能帮到这了。[Waitkey][Scroll]......好好玩吧。再见！
-275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]很久很久以前，在群山与[2]森林环绕之中，有一个[3]美丽的王国--海拉鲁。[Wait 03][Scroll]传说在某个神秘之地，[Scroll]隐藏着能让人无所不能[Scroll]无所不知的黄金之力。[Wait 05][Scroll]无数人为了得到它，[Scroll]彼此争斗，纷纷闯入[Scroll]那神秘的黄金大陆......[Wait 03][Scroll]......然而，没有一个人回来。[Wait 05][NextPic][NextPic][Scroll]终于有一天，邪恶的力量[Scroll]开始从黄金大陆渗出......[Scroll]国王立刻下令，召集当时法力[Wait 05][Scroll]最强大的七位贤者，将通往[Scroll]黄金大陆的入口彻底封印。[Scroll]那道封印的力量，[Wait 05][NextPic][NextPic][Scroll]足以将两个世界[Scroll]永远隔绝......[Scroll]随着岁月流逝，[Wait 05][NextPic][NextPic][Scroll]这段往事逐渐被人遗忘，[Scroll]最终只留下一个古老的传说。[Wait 05][Scroll]
-276: [Window 02][Color 07][Speed 03][1]然而有一天......[2]一个叫阿格宁的[3]邪恶巫师来到了海拉鲁，[Wait 02][Scroll]要解开七贤者的封印......[Scroll]他先是暗算了海拉鲁[Scroll]王国善良的国王......[Wait 04][Wait 05]
-277: [Window 02][Color 07][Speed 03][1]接着又用邪恶的魔法，[2]将七贤者的后人，[3]一个又一个地[Wait 02][Scroll]逐......个......消......除。[Wait 04][Wait 05]
-278: [Window 02][Color 07][Speed 03][1]同样的命运，[2]也即将降临到[3]塞尔达公主的身上......[Wait 03][Wait 05]
+275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]很久很久以前，在群山与[2]森林环绕之中，有一个[3]美丽的王国--海拉鲁。[Wait 09][Scroll]传说在某个神秘之地，[Scroll]隐藏着能让人无所不能[Scroll]无所不知的黄金之力。[Wait 09][NextPic][NextPic][Scroll]无数人为了得到它，[Scroll]彼此争斗，纷纷闯入[Scroll]那神秘的黄金大陆......[Wait 07][Scroll]......然而，没有一个人回来。[Scroll]终于有一天，邪恶的力量[Scroll]开始从黄金大陆渗出......[Wait 07][Scroll]国王立刻下令，召集当时法力[Scroll]最强大的七位贤者，将通往[Scroll]黄金大陆的入口彻底封印。[Wait 09][NextPic][NextPic][Scroll]那道封印的力量，[Scroll]足以将两个世界[Scroll]永远隔绝......[Wait 09][NextPic][NextPic][Scroll]随着岁月流逝，[Scroll]这段往事逐渐被人遗忘，[Scroll]最终只留下一个古老的传说。
+276: [Window 02][Color 07][Speed 03][1]然而有一天......[2]一个叫阿格宁的[3]邪恶巫师来到了海拉鲁，[Wait 05][Scroll]要解开七贤者的封印......[Scroll]他先是暗算了海拉鲁[Scroll]王国善良的国王......[Wait 05]
+277: [Window 02][Color 07][Speed 03][1]接着又用邪恶的魔法，[2]将七贤者的后人，[3]一个又一个地[Wait 05][Scroll]逐......个......消......除。[Wait 05]
+278: [Window 02][Color 07][Speed 03][1]同样的命运，[2]也即将降临到[3]塞尔达公主的身上......[Wait 05]
 279: 钥匙被锁在箱子里面，[2]你永远也不可能打开它。
 280: 100卢比30个炸弹！[2]30个炸弹只要100卢比！[3]来买一点吧！
 281: 100卢比30个炸弹！[2]还有一种新型炸弹，[3]同样一个只要100卢比！

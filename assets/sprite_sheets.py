@@ -290,7 +290,7 @@ def encode_font_cn():
 
   # Now encode CJK characters (1118 chars) as 16x16 (4 tiles each)
   cjk_font = bytearray()
-  for i in range(1164):
+  for i in range(1162):
     img_idx = 16 + i  # first 16 are punctuation in font_cn.png
     char_col = img_idx % 32
     char_row = img_idx // 32
