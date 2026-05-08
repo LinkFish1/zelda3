@@ -1,7 +1,7 @@
 @echo off
 
 2>nul (del zelda3_assets.dat)
-python assets/restool.py --extract-from-rom
+python assets/restool.py --extract-from-rom --languages cn
 IF NOT ERRORLEVEL 0 goto ERROR
 
 IF NOT EXIST "zelda3_assets.dat" (
