@@ -272,7 +272,7 @@
 272: 举起大师之剑，[2]你就能得到爆炎魔法。
 273: 你这家伙！竟敢[2]打扰我睡觉！[3]......我是说非常感谢你。[Waitkey][Scroll]......等一下！现在我要[Scroll]报仇了，你准备受死吧！[Waitkey][Scroll]......你准备好了吗？
 274: ......咔咔咔！接招吧！[2]可怜啊，你的魔力消耗[3]变成一半咯。[Waitkey][Scroll]...怎么样...还挺有意思吧？[Waitkey][Scroll]不过，这点还不够，[Scroll]我也只能帮到这了。[Waitkey][Scroll]......好好玩吧。再见！
-275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]很久很久以前，[2]在群山与森林环绕之中，[3]有一个美丽的王国，海拉鲁。[Wait 14][Scroll]传说在某个神秘之地，[Scroll]隐藏着能让人无所不能[Scroll]无所不知的黄金之力。[Wait 14][NextPic][NextPic][Scroll]无数人为了得到它，[Scroll]彼此争斗，纷纷闯入[Scroll]神秘的黄金大陆......[Wait 12][Scroll]然而，没有一个人回来。[Scroll]终于有一天，[Scroll]邪恶的力量开始[Wait 12][Scroll]从黄金大陆渗出......[Scroll]国王立刻下令，[Scroll]召集法力最强大的[Wait 14][NextPic][NextPic][Scroll]七位贤者封印入口。[Scroll]封印足以将两世界永远隔绝。[Scroll][Wait 14][NextPic][NextPic]......  ......随着时间流逝，[Scroll]这段往事逐渐被人遗忘，[Scroll]只留下一个古老的传说。
+275: [ScrollSpd 00][Color 07][Speed 03][Window 02][NextPic]很久很久以前，[2]在群山与森林环绕之中，[3]有一个美丽的王国，海拉鲁。[Wait 14][Scroll]传说在某个神秘之地，[Scroll]隐藏着能让人无所不能[Scroll]无所不知的黄金之力。[Wait 14][NextPic][NextPic][Scroll]无数人为了得到它，[Scroll]彼此争斗，纷纷闯入[Scroll]神秘的黄金大陆......[Wait 12][Scroll]然而，没有一个人回来。[Scroll]终于有一天，邪恶的力量[Scroll]开始从黄金大陆渗出......[Wait 12][Scroll]于是，国王命令七位贤者，[Scroll]将通往黄金大陆的[Scroll]入口封印了起来。[Wait 14][NextPic][NextPic][Scroll]那道封印本应永远[Scroll]不会再被解开......[Scroll][Wait 14][NextPic][NextPic]......然而，随着时间流逝，[Scroll]这段往事逐渐被人遗忘，[Scroll]只留下一个古老的传说。
 276: [Window 02][Color 07][Speed 03][1]然而有一天......[2]一个叫阿格宁的[3]邪恶巫师来到了海拉鲁，[Wait 05][Scroll]要解开七贤者的封印......[Scroll]他先是暗算了海拉鲁[Scroll]王国善良的国王......[Wait 05]
 277: [Window 02][Color 07][Speed 03][1]接着又用邪恶的魔法，[2]将七贤者的后人，[3]一个又一个地[Wait 05][Scroll]逐......个......消......除。[Wait 05]
 278: [Window 02][Color 07][Speed 03][1]同样的命运，[2]也即将降临到[3]塞尔达公主的身上......[Wait 05]
