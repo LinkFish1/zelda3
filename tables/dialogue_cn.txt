@@ -34,7 +34,7 @@
 34: 王座后面有一条秘道，[2]可以通往教堂。[3]我相信那里的神父[Waitkey][Scroll]会帮助我们的。[Scroll]我们必须快点了！
 35: 那个装饰架是可以推开的。[2]你有提灯吗？[3]里面非常黑。[Waitkey][Scroll]没有提灯，什么都看不见。[Scroll]准备好了的话，[Waitkey][Scroll]我们就进去吧！[Scroll]到左边帮我把架子推开！
 36: 要拉动这些开关，[2]才能打开门。[3]按住[A]键并同时按方向键[Down]。
-37: 干得好！趁巫师未察觉，[2]我们马上离开！[3]我知道一条秘道，[Waitkey][Scroll]但要先去一楼大厅，[Waitkey][Scroll]我们快走吧！
+37: 明白就好！趁巫师未察觉，[2]我们马上离开！[3]我知道一条秘道，[Waitkey][Scroll]但要先去一楼大厅，[Waitkey][Scroll]我们快走吧！
 38: [Name]，仔细听好。[2]城堡里的士兵，[3]被巫师的魔法操控了。[Waitkey][Scroll]我担心父亲可能已经[Waitkey][Scroll]遭遇了不测......[Scroll]那个巫师，实在太残忍了！[Scroll]他的力量，太强大了......[Waitkey][Scroll].........[Waitkey][Scroll]你明白吗？[Scroll]    > 明白了[Scroll]       不太明白[Choose]
 39: 你应该按照长老[2]在地图上标记的[3]位置进行探索。[Waitkey][Scroll]要是不知道接下来做什么，[Scroll]你也可以去问问占卜师。
 40: [Name]，你太出色了！[2]果然，在你的身上，[3]有勇者的力量！[Waitkey][Scroll]现在只差大师之剑了。[Scroll]你一定可以击败巫师的！
