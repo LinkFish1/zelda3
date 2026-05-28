@@ -54,8 +54,8 @@
 54: [Window 02][Speed 03][Name]，是我萨哈斯拉拉。[2]我正通过心灵感应，在虚无[3]的空间中与你对话。[Waitkey][Scroll]你现在所处之地，[Scroll]原本是黄金大陆，[Scroll]却已被邪恶之力侵蚀，[Waitkey][Scroll]堕落为黑暗世界。[Scroll]那个巫师已经解开了[Scroll]七贤者的封印，[Waitkey][Scroll]并在海拉鲁城入口处打开[Scroll]了连接两个世界的通道。[Scroll]为了拯救这半个世界，[Waitkey][Scroll]光明世界，你必须夺回[Scroll]黄金之力。同时，你必须[Scroll]解救被阿格宁用魔法[Waitkey][Scroll]送入黑暗世界的七位少女。[Scroll]她们是七贤者的后裔，[Scroll]她们的力量，将会成为[Waitkey][Scroll]你的重要助力。但她们如今[Scroll]被囚禁在机关重重、[Scroll]魔物横行的隐秘迷宫。[Waitkey][Scroll]现在，前往暗之神殿吧！[Scroll]你是我们最后的希望......[Scroll]千万不要让我们这些[Waitkey][Scroll]老人失望......拜托你了！
 55: [Window 02][Speed 03]不过，你现在的样子[2]恐怕什么也做不了......[3]去海布拉山的塔上[Waitkey][Scroll]寻找月之珍珠吧。[Scroll]它能够抵御黑暗世界的[Scroll]邪恶之力，让你保持[Waitkey][Scroll]原本的形态。
 56: 海利亚湖东边的洞穴里[2]藏着一件有用的宝物，[3]去找找看吧！
-57: 哦？你拿到勇气纹章了！[2]很好，现在我就告诉你[3]更多的传说吧......[Waitkey][Scroll]几代以前，有一支[Scroll]骁勇善战的海拉鲁[Scroll]骑士团。[Waitkey][Scroll]他们保卫着海拉鲁王国，[Scroll]同时也守护着勇气纹章。[Waitkey][Scroll]他们说过，无论何时[Scroll]当王室家族遇到灾难时，[Scroll]一个拥有海拉鲁骑士[Waitkey][Scroll]华贵血统的英雄[Scroll]将会诞生......[Scroll]不幸的是，在七贤者施法[Waitkey][Scroll]封印的时候，[Scroll]为了保护他们[Waitkey][Scroll]不受恶魔的伤害，[Scroll]大部分的骑士都已经[Scroll]牺牲了，所以也不会[Waitkey][Scroll]有英雄诞生了......[Scroll]但是，瞧！我相信[Scroll]你是我们的英雄，[Name]！[Waitkey][Scroll]去寻找剩下的纹章吧。[Scroll]带上这个，这是贤者们[Scroll]一代一代传下来的。
-58: 我就是萨哈斯拉拉，[2]本村的长老，[3]也是七贤者的后人。[Waitkey][Scroll]......原来如此[Waitkey][Scroll][Name]，原来像你这般年轻的人[Scroll]竟在寻找大师之剑，[Scroll]实在令我意外。[Waitkey][Scroll]此剑并非人人都可驾驭。[Scroll]传说只有打败三大魔物、[Scroll]获得三枚纹章的勇者[Waitkey][Scroll]才能成为它的主人。[Waitkey][Scroll]啊，我看你已经获得了[Scroll]勇气纹章。那好，[Scroll]我给你讲个故事。[Waitkey][Scroll]很久以前，有一支骑士部族[Scroll]世代守护着海拉鲁王族。[Scroll]这个氏族被称为骑士一族，[Waitkey][Scroll]同时也是勇气纹章[Scroll]的守护者。[Waitkey][Scroll]在七贤者施法封印时，[Scroll]他们大多在与恶魔的[Scroll]激战中壮烈牺牲。[Waitkey][Scroll]但传说中，一定有一位[Scroll]勇者会从骑士部族的后代中[Scroll]出生。[Waitkey][Scroll]......我懂了。[Scroll]你肯定就是那位勇者，[Waitkey][Scroll]去集齐剩下的纹章吧，[Scroll]还有，收下这个。[Scroll]这是我家世代[Waitkey][Scroll]相传的宝物。
+57: 哦？你拿到勇气纹章了！[2]很好，我告诉你[3]更多的传说......[Waitkey][Scroll]几代以前，有一支骁勇善战[Scroll]的海拉鲁骑士团。[Scroll]他们保卫着海拉鲁王国，[Waitkey][Scroll]同时也守护着勇气纹章。[Scroll]他们说过，无论何时，[Scroll]当王室家族遇到灾难，[Waitkey][Scroll]一个拥有海拉鲁骑士[Scroll]华贵血统的英雄[Scroll]将会诞生......[Waitkey][Scroll]不幸的是，[Scroll]七贤者施法封印时，[Scroll]为了保护海拉鲁骑士[Waitkey][Scroll]不受恶魔的伤害，[Scroll]大部分的骑士都牺牲了，[Scroll]因此不会有英雄诞生了......[Waitkey][Scroll]但是，瞧！我相信，[Scroll]你是我们的英雄，[Name]！[Scroll]去集齐剩下的纹章吧。[Waitkey][Scroll]带上这个，这是贤者们[Scroll]一代一代传下来的。
+58: 我就是萨哈斯拉拉，[2]这个村子的长老，[3]也是七贤者的后人。[Waitkey][Scroll]......原来如此，[Scroll][Name]，像你这般年轻的人，[Scroll]竟在寻找大师之剑，[Waitkey][Scroll]实在是令我意外。[Scroll]此剑并非人人都可驾驭。[Scroll]传说只有打败三大魔物、[Waitkey][Scroll]获得三枚纹章的勇者，[Scroll]才能成为它的主人。[Scroll]啊，你已经获得了勇气纹章。[Waitkey][Scroll]那好，给你讲个故事。[Scroll]很久以前，有一支骑士部族，[Scroll]世代守护着海拉鲁王族。[Waitkey][Scroll]这个氏族被称为骑士一族，[Scroll]同时也是勇气纹章的守护者。[Scroll]在七贤者施法封印时，[Waitkey][Scroll]他们大多在与恶魔的激战中[Scroll]壮烈牺牲。[Scroll]但传说中，一定有一位勇者[Waitkey][Scroll]会从骑士部族的后代中[Scroll]出生。[Scroll]......我明白了。[Waitkey][Scroll]你肯定就是那位勇者，[Scroll]去集齐剩下的纹章吧，[Scroll]还有，收下这个。[Waitkey][Scroll]这是我家世代相传的宝物。
 59: 找到七贤者后人的，[2]赏赐100卢比。[3]--国王
 60:    [LinkL][LinkR]  通缉令！[2]此人[Name]是绑架[3]塞尔达公主的犯人。[Waitkey][Scroll]见到他就马上叫士兵来！
 61: 危险！[2]没有国王的命令，[3]禁止攀登死亡之山！
@@ -73,10 +73,10 @@
 73:     伐木工之家[2]    A作，B作和Q作的房子
 74: 这条路通往[2]      [Down] 卡卡利科村
 75: 咕嘟咕嘟......[2]正在为你熬制，[3]蘑菇药水......
-76: 嘿嘿......[2]谢谢你啊，年轻人...[3]晚点儿来店里，[Waitkey][Scroll]有好东西给你......嘿嘿...
-77: 嗯......烂水果的味道......[2]如果你把这蘑菇[3]给我，我的酿造就可以[Waitkey][Scroll]完成了。嘿嘿...
+76: 嘿嘿......[2]谢谢你啊，年轻人...[3]晚一点来店里，[Waitkey][Scroll]有好东西给你......嘿嘿...
+77: 嗯......烂水果的味道......[2]如果你把蘑菇给我，[3]我的酿造就可以完成了。[Waitkey][Scroll]嘿嘿...
 78: 想买药水的话，[2]你要有瓶子来装...[3]嘿嘿嘿！[Waitkey][Scroll]来，免费尝一口[Scroll]红色药水吧。嘿嘿嘿！
-79: 红色的是生命药水，[2]绿色的是魔力药水，[3]蓝色的两种效果都有。[Waitkey][Scroll]尝尝我们的[Scroll]红色药水吧......[Scroll]嘿嘿！
+79: 红色的是生命药水，[2]绿色的是魔力药水，[3]蓝色的两种效果都有。[Waitkey][Scroll]尝尝我们的红色药水吧......[Scroll]嘿嘿！
 80: 没有空瓶子的话，[2]可买不了药水哦。[3]嘿嘿嘿！
 81: 不行不行......[2]你的瓶子都满了，[3]装不下了。嘿嘿嘿！
 82: 你得到了提灯！[2]按[Y]键可以点燃火炉，[3]可以在黑暗中照明。
@@ -86,11 +86,11 @@
 86: 这是魔法斗篷！[2]穿上就能隐匿行踪，[3]不过要注意魔力消耗！
 87: 这是魔法粉！[2]试着洒在敌人[3]和各种东西上看看！
 88: 你买到了卓拉脚蹼！[2]你可以在深水区游泳了！
-89: 你获得了力量手套！[2]你的双手充满了力量！[3]你可以搬起石头了！
+89: 你获得了力量手套！[2]你的双手充满了力量！[3]可以搬起石头了！
 90: 你获得了勇气纹章！[2]拿给长老萨哈斯拉拉看看吧！[3]还剩下两枚纹章！
 91: 你获得了力量纹章！[2]离集齐三枚纹章的[3]目标不远了！[Waitkey][Scroll]去找最后一枚纹章吧！
 92: 你获得了智慧纹章！[2]太好了！[3]三枚纹章都齐了，[Waitkey][Scroll]现在去迷途森林，[Scroll]拔出大师之剑吧！
-93: 这个蘑菇闻起来[2]像烂水果......也许[3]可以送给需要[Waitkey][Scroll]它的人。（选中后按[Y]键。）
+93: 这个蘑菇闻起来[2]像烂水果......[3]也许可以送给需要[Waitkey][Scroll]它的人。（选中后按[Y]键。）
 94: 你发现了姆多拉之书！[2]你可以用它来读懂[3]古代海利亚文字了！
 95: 你发现了月之珍珠！[2]它能保护勇者的身体[3]不受黄金之力的[Waitkey][Scroll]影响而变形。
 96: 你发现了罗盘！[2]现在你能看到[3]这个迷宫里头目的[Waitkey][Scroll]精确位置了！
@@ -151,12 +151,12 @@
 151: 我为你提升炸弹上限，[2]现在你一共可以携带[3][Number 01][Number 00]个炸弹。[Waitkey][Scroll]这是我给予你的[Scroll]一点小小祝福。
 152: 我为你提升箭的上限，[2]现在你一共可以携带[3][Number 01][Number 00]支箭。[Waitkey][Scroll]这是我给予你的[Scroll]一点小小祝福。
 153: 你已经很强了，[2]我帮不上什么忙了。[3]不过在愿望瀑布那边，[Waitkey][Scroll]有我的一位好朋友，[Scroll]是一位很漂亮的女士，[Scroll]你可以去见见她。[Waitkey][Scroll]这些卢比还给你了，[Scroll]祝你一路顺利。
-154: 啊......小心脚下。[2]地上有洞，我们往右转，[3]好吗？[Waitkey][Scroll]年轻人，你上山也是为了[Scroll]寻找黄金之力吗？前面的[Scroll]山上，到处都是魔物。[Waitkey][Scroll]很多去寻找黄金[Scroll]之力的人，都是[Scroll]在那里失踪的。[Waitkey][Scroll]我不希望你也变成他们[Scroll]那样，你也不要沉迷这些[Scroll]危险的东西了。
+154: 啊......小心脚下。[2]地上有洞，我们往右转，[3]好吗？[Waitkey][Scroll]年轻人，你上山也是为了[Scroll]寻找黄金之力吗？[Scroll]前面的山上到处都是魔物。[Waitkey][Scroll]很多去寻找黄金之力的人，[Scroll]都是在那里失踪的。[Scroll]我不希望你也变成他们那样，[Waitkey][Scroll]你也不要沉迷这些[Scroll]危险的东西了。
 155: 对了，罐子里有一颗心。
 156: 嗯，往右边走吧......[Waitkey][2]说起来，我有一个[3]和你差不多年纪的[Waitkey][Scroll]孙女。她被带到城里后[Scroll]就再也没有回来。[Scroll]那些女孩子被抓走了，[Waitkey][Scroll]一定是因为巫师的阴谋。[Scroll]他肯定是想借此[Scroll]利用七贤者后人的[Waitkey][Scroll]力量......在暗中策划着[Scroll]什么邪恶的计划。
 157: 我不认识你，可是......[2]如果你也要上山，[3]能不能带我一起走？[Waitkey][Scroll]我把提灯弄丢了，[Scroll]现在......真的有点害怕。
 158: 那些失踪的女孩子[2]一定还在某个地方活着，[3]会有一个勇者去救她们的...[Waitkey][Scroll]我会等到那一天的......[Waitkey][Scroll]唉，在这里说话其实很危险。[Scroll]不管怎样......[Scroll]非常感谢你这么好心肠。[Waitkey][Scroll]肯带我这样的老头子上山。[Waitkey][Scroll]收下这个吧。[Scroll]要是你不小心[Scroll]走进了魔法传送点，[Waitkey][Scroll]就看看这面镜子。
-159: 那个巫师欺骗了国王，[2]现在正试图打开通往[3]黑暗世界的通道。[Waitkey][Scroll]为了接下来的冒险，[Waitkey][Scroll]你必须前往这座山顶的[Scroll]高塔，找到一件名为[Scroll]月之珍珠的宝物。[Waitkey][Scroll]至于现在，我能为你做的，[Scroll]也只有帮你消除疲劳......[Scroll]随时欢迎你来坐坐。
+159: 那个巫师欺骗了国王，[2]现在正试图打开[3]通往黑暗世界的通道。[Waitkey][Scroll]为了接下来的冒险，[Waitkey][Scroll]你必须前往这座山顶的[Scroll]高塔，找到一件名为[Scroll]月之珍珠的宝物。[Waitkey][Scroll]至于现在，我能为你做的，[Scroll]也只有帮你消除疲劳......[Scroll]随时欢迎你来坐坐。
 160: 月之珍珠是为前往[2]圣地的勇者准备的[3]宝物。[Waitkey][Scroll]它能保护勇者不受[Scroll]黑暗之力的影响。[Waitkey][Scroll]你既然已经得到了它，[Scroll]你一定就是我一直[Scroll]等待的勇者。[Waitkey][Scroll]请去拯救女孩们吧！
 161: [Name]，是你吗？[2]我推测巫师在城堡附近[3]打开了连接两个世界的通道。[Waitkey][Scroll]如果你要前往黑暗世界，[Scroll]那里应该就是你的目的地。
 162: 唉.....我可怜又爱吹笛的儿子[2]......已经好久没听到[3]他的笛声了......[Waitkey][Scroll]他去寻找黄金之力后，[Waitkey][Scroll]再也没有回来......[Scroll]真想知道，他现在在哪里...[Scroll]又在做些什么......
@@ -165,8 +165,8 @@
 165: 呼噜噜......呼噜噜......
 166: 噢，[Name]。最近有[2]很多人散布谣言，[3]说你绑架了公主...[Waitkey][Scroll]但我相信你绝不会做那种事。
 167: 我......我认输！[2]以你这样的速度，[3]绑架塞尔达公主易如反掌。[Waitkey][Scroll]看起来你并不像一个坏人。[Scroll]跑得这么快的话，[Scroll]可以试着撞撞各种东西。[Waitkey][Scroll]比如，这个村子里的树，[Scroll]树上可能藏着[Scroll]各种有用的道具。[Waitkey][Scroll]自己试试看吧！
-168: 嘿！你要是有闲工夫[2]看这块牌子，你早[3]就到终点了！
-169: 穿着魔法斗篷的人，[2]有一块心之碎片[3]等着你来拿。
+168: 嘿！你要是有时间[2]看这块牌子，[3]你早就到终点了！
+169: 穿着魔法斗篷的人，[2]有一块心之碎片等着你来拿。
 170: 往池塘里扔东西的人，[2]将受到我的诅咒。
 171: 这条路通往[2]      [Up] 头骨之森[3]      [Down] 盗贼之村
 172: 这条路通往[2]      [Right] 洞穴
@@ -174,15 +174,15 @@
 174: 这条路通往[2]      [Left] 炸弹店
 175: [Left]  恶魔之沼[2]         禁止进入[3]         有去无回
 176: 这里是盗贼之村。[2]不欢迎没有卢比的人。
-177: 愿望瀑布在[2]前面不远处。
+177: 愿望瀑布在前面不远处。
 178: 这条路通往[2]      [Right][Up] 水之祠堂
 179: 自从阿格宁控制这里，[2]每个人的行为都变得[3]非常怪异。[Waitkey][Scroll]我知道，早晚有一天，[Scroll]我也会变成那样，[Scroll]只是时间的问题罢了。
 180: 喂 喂！小孩子，[2]你不能进城的，[3]快回家睡觉吧！
-181: [Window 02][Name]，是我萨哈斯拉拉。[2]我有一点忠告给你......[3]这个神殿里有一件宝物[Waitkey][Scroll]可以打败穿有红色[Scroll]铠甲的魔物。[Scroll]你一定要拿到！
+181: [Window 02][Name]，是我萨哈斯拉拉。[2]我有一点忠告给你......[3]这个神殿里有一件宝物，[Waitkey][Scroll]可以打败穿有[Scroll]红色铠甲的魔物。[Scroll]你一定要拿到！
 182: [Window 02][Name]，是我萨哈斯拉拉。[2]这座城堡里面，有一颗[3]名为月之珍珠的宝物。[Waitkey][Scroll]带着这颗珠子的人，[Scroll]在黑暗的世界里就不[Scroll]会受到侵害而变形。[Waitkey][Scroll]你一定要找到它，[Scroll]然后才能离开这座城堡！[Scroll]千万不要忘了月之珍珠......
 183: [Ankh][Waves][Ankh][Snake][Ankh][Waves][Ankh][Snake][Ankh][Waves][Waves][Waves][Waves][Ankh][Snake][Ankh][Waves][Ankh][Snake][2][Ankh][Snake][Ankh][Ankh][Waves][Ankh][Snake][Ankh][Waves][Ankh][Snake][3][Ankh][Waves][Ankh][Snake][Ankh][Ankh][Waves][Ankh][Snake][Snake][Waves][Ankh][Ankh][Snake]
 184: 大灾变降临之时，[2]勇者如晨曦降世。[3]骑士之血脉相承，[Waitkey][Scroll]手持三枚纹章，[Scroll]唯有此人能拔出神剑。
-185: [Window 02][Name]，我是萨哈斯拉拉[2]你必须想办法到[3]眼睛巨石的上面，[Waitkey][Scroll]在那里，你才能到达[Scroll]海布拉山顶的[Scroll]赫拉之塔。[Waitkey][Scroll]务必小心前行。
+185: [Window 02][Name]，我是萨哈斯拉拉[2]你必须想办法到[3]眼睛巨石的上面，[Waitkey][Scroll]在那里，你才能到达[Scroll]海布拉山顶的赫拉之塔。[Scroll]务必小心前行。
 186: [Window 02][Name]，是我萨哈斯拉拉。[2]两个世界对应的物体是具有[3]相似形状的。[Waitkey][Scroll]如果其中一个世界中的物体[Scroll]改变了，另一个世界的物体[Scroll]也会随之改变。
 187: [Window 02][Name]...是我，塞尔达......[2]小心不要被盗贼的魔法[3]迷惑了！
 188: [Window 02][Name]，是我萨哈斯拉拉。[2]你必须点燃四个火炉，[3]才能打开前进的路。
@@ -202,12 +202,12 @@
 202: 你捉到一只精灵！[Waitkey][2]你要怎么做？[3]    > 放到瓶子里[Scroll]       放它走吧[Choose]
 203: 没有空瓶子装了。[2]没办法......[3]只好放它走了。
 204: 你的成绩是[Number 03][Number 02]分[2][Number 01][Number 00]秒。
-205: 如果你能在15秒内[2]到达终点，我会送一样好东西[3]给你。[Waitkey][Scroll]准备好......预备......开始！
+205: 如果你能在15秒内[2]到达终点，[3]我会送一样好东西给你。[Waitkey][Scroll]准备好......预备......开始！
 206: 你通过了！[2]祝贺你！[3]送你一块心之碎片！
 207: 你失败了！[2]真不走运！[3]要再试一次吗？
-208: 我没有东西[2]可以给你了，[3]真抱歉！
+208: 我没有东西可以给你了，[2]真抱歉！
 209: 你要从正确的入口[2]进入迷宫，[3]不然我没办法计时......
-210: 嘿，先生！你到现在[2]还没有一个万能的[3]瓶子吗？什么东西都能装！[Waitkey][Scroll]便宜卖啦，只要100卢比！[Waitkey][Scroll]怎么样？有兴趣吗？[Scroll]    > 买一个[Scroll]       不需要[Choose]
+210: 嘿，先生！你到现在[2]还没有一个万能的瓶子吗？[3]什么东西都能装！[Waitkey][Scroll]便宜卖啦，只要100卢比！[Waitkey][Scroll]怎么样？有兴趣吗？[Scroll]    > 买一个[Scroll]       不需要[Choose]
 211: 好眼光！谢谢惠顾！[2]快把它举过头顶，[3]让大家好好看看吧！
 212: 哦，是这样......真不走运。[2]赚够卢比再来吧。
 213: 瓶子已经卖完了。[2]你晚点再来看看吧，好吗？[3]......
@@ -231,7 +231,7 @@
 231: 那......[2]我可以把铁铲借给你。[3]拜托你了！
 232: ......这样啊。[2]没关系的。[3]再见了......
 233: 你......[2]找到我的陶笛了吗？[3]不用着急......慢慢找就好......
-234: 谢谢你，[Name]。[2]但是......我已经......[3]无法再吹笛子了......[Waitkey][Scroll]由你替我保管吧。[Scroll]如果你有机会到我住的村子[Scroll]......那里有一位看起来[Waitkey][Scroll]很沧桑的老人......[Name][Waitkey][Scroll]...我的意识越来越模糊了......[Scroll]我想再听一次......[Scroll]那支笛子的声音......
+234: 谢谢你，[Name]。[2]但是......我已经......[3]无法再吹笛子了......[Waitkey][Scroll]由你替我保管吧。[Scroll]如果你有机会到我住的村子[Scroll]......那里有一位看起来[Waitkey][Scroll]沧桑的老人......[Name][Waitkey][Scroll]...我的意识越来越模糊了......[Scroll]我想再听一次......[Scroll]那支笛子的声音......
 235: [Position 00][Speed 03]嘟噜......嘟噜......[Waitkey][2]你将会找到，[3]萨哈斯拉拉长老...
 236: [Position 00][Speed 03]嘟噜......嘟噜......[Waitkey][2]你将会用姆多拉之书，[3]打开沙漠的大锁。
 237: [Position 00][Speed 03]嘟噜......嘟噜......[Waitkey][2]你将会在沙漠，[3]找到七贤者的后人。
@@ -292,7 +292,7 @@
 292: 啊！太刺眼了！
 293: 呃，等一下......[2]我们不要走这条路好吗？
 294: 我是阿基纳。我感觉到，[2]被封印的圣地那边，[3]好像要出大事了。[Waitkey][Scroll]这也许意味着，[Waitkey][Scroll]古代海利亚人预言的[Scroll]那场灾难......[Scroll]就要来了。[Waitkey][Scroll]预言里说，[Scroll]会有一位勇者，[Scroll]手持姆多拉之书，[Waitkey][Scroll]前往神秘沙漠。[Scroll]只要拿到那本书，[Waitkey][Scroll]你就能看懂[Scroll]海利亚人的文字。[Scroll]我记得那本书，[Waitkey][Scroll]就在村子的图书馆里。[Scroll]如果你真的想成为[Scroll]那位勇者，[Waitkey][Scroll]就去把它找出来吧。
-295: 集齐三枚纹章，[2]你已经证明了自己[3]拥有智慧、勇气[Waitkey][Scroll]和力量。[Waitkey][Scroll]如果你真的有勇气，[Scroll]就去森林里拔出[Scroll]沉睡的大师之剑吧。[Waitkey][Scroll]
+295: 集齐三枚纹章，[2]你已经证明了自己[3]拥有智慧、勇气和力量。[Waitkey][Scroll]如果你真的有勇气，[Scroll]就去森林里拔出[Scroll]沉睡的大师之剑吧。
 296: 你得到了姆多拉之书！[2]有了它，你就能理解[3]海利亚人的文字了。
 297: 你确实是勇者，[2]我相信你一定能让和平[3]回到这片土地。
 298: 沙漠之旅使你变得更强了。[2]你的体内一定流着勇者的血......
@@ -305,16 +305,16 @@
 305: 你居然从墙里穿过来了？[2]算了......也许该去和好了......
 306: 喂，[Name]，[2]你是从我哥那边[3]过来的吗？[Waitkey][Scroll]他还在生气吗？
 307: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你！[Waitkey][Scroll]这个世界曾经是三角神力[Scroll]所在的黄金大陆。[Waitkey][Scroll]但由于加侬这个[Scroll]强盗的野心，[Scroll]它变成了现在这个样子......[Waitkey][Scroll]一旦他在这里的[Scroll]势力稳固下来，[Waitkey][Scroll]会吞并我们的光明世界。[Scroll]他还想利用我们的力量，[Scroll]将城堡附近连接两个[Waitkey][Scroll]世界的通道进一步扩大。[Waitkey][Scroll]幸好那个通道现在[Scroll]还没完全打开......[Scroll]但是[Name]，还来得及，[Waitkey][Scroll]如果我们七个女孩能全部[Scroll]集中在一起的话，我们就可以[Scroll]解开加侬藏身之处的封印了。[Waitkey][Scroll]我现在告诉你其他女孩[Scroll]被囚禁的地点。我相信[Sound 45][Waitkey][Scroll]你一定能够打败加侬。[Scroll]到那时，[Scroll]我也能恢复原来的样子了。
-308: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]......无论是谁，只要触碰到[Scroll]三角神力，他的愿望就会[Scroll]实现，直到生命终结为止......[Waitkey][Scroll]因此，这股力量一直被隐藏[Scroll]在黄金大陆，只有极少数有[Scroll]资格的人才知道它的位置。[Waitkey][Scroll]然而，不知何时起，它的[Scroll]具体位置后来失传了......[Waitkey][Scroll]重新发现黄金大陆的人，[Scroll]是一个名叫加侬多夫的[Scroll]邪恶盗贼。[Waitkey][Scroll]所幸，他当时并不知道[Scroll]回到光明世界的方法......[Waitkey][Scroll]......记住，[Name]，[Scroll]你有着真正的勇者才[Scroll]能使用的魔法之力！[Waitkey][Scroll]还有，除了死亡之山[Scroll]的传送点以外，其他地方也[Scroll]存在通往两个世界的入口。[Waitkey][Scroll]好好利用这些通道，在两个[Scroll]世界之间穿梭，找出隐藏[Scroll]在黑暗世界中的恶魔吧。[Waitkey][Scroll]记住，只有你，才能打败[Scroll]那个强盗加侬多夫，不，[Scroll]是那个黑暗魔王加侬！
-309: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]你听说过大灾难的预言吗？[Scroll]我所听到的，是这样的。[Waitkey][Scroll]如果有一个心怀邪念的人[Scroll]得到了三角神力，[Scroll]那么，命运中必然会出现[Waitkey][Scroll]一位勇者与之对抗，[Scroll]勇者将与引发大灾难的恶魔[Waitkey][Scroll]展开一场孤注一掷的决斗，[Scroll]如果勇者战败，就再也没有任[Scroll]何力量能够阻止他的野心。[Waitkey][Scroll]只有守护海拉鲁王国的[Scroll]骑士一族，才有资格成为[Scroll]那位被选中的勇者......[Waitkey][Scroll]你的身上，也流着海拉鲁[Scroll]骑士的血，对吧？既然[Scroll]如此，你就必须将塞尔达[Waitkey][Scroll]公主救出来。只许成功，[Scroll]不许失败！
+308: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]......无论是谁，只要触碰到[Scroll]三角神力，他的愿望就会[Scroll]实现，直到生命终结为止......[Waitkey][Scroll]因此，这股力量一直被隐藏[Scroll]在黄金大陆，只有极少数有[Scroll]资格的人才知道它的位置。[Waitkey][Scroll]然而，不知何时起，[Scroll]它的具体位置失传了......[Waitkey][Scroll]重新发现黄金大陆的人，[Scroll]是一个名叫加侬多夫的[Scroll]邪恶盗贼。[Waitkey][Scroll]所幸，他当时并不知道[Scroll]回到光明世界的方法......[Waitkey][Scroll]......记住，[Name]，[Scroll]你有着真正的勇者才[Scroll]能使用的魔法之力！[Waitkey][Scroll]还有，除了死亡之山[Scroll]的传送点以外，其他地方也[Scroll]存在通往两个世界的入口。[Waitkey][Scroll]好好利用这些通道，在两个[Scroll]世界之间穿梭，找出隐藏[Scroll]在黑暗世界中的恶魔吧。[Waitkey][Scroll]记住，只有你，才能打败[Scroll]那个强盗加侬多夫，[Scroll]不，是那个黑暗魔王加侬！
+309: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]你听说过大灾难的预言吗？[Scroll]我所听到的，是这样的。[Waitkey][Scroll]如果有一个心怀邪念的人[Scroll]得到了三角神力，[Scroll]那么，命运中必然会出现[Waitkey][Scroll]一位勇者与之对抗，[Scroll]勇者将与引发大灾难的恶魔[Waitkey][Scroll]展开一场孤注一掷的决斗，[Scroll]如果勇者战败，就再也没有[Scroll]任何力量能阻止他的野心。[Waitkey][Scroll]只有守护海拉鲁王国的[Scroll]骑士一族，才有资格成为[Scroll]那位被选中的勇者......[Waitkey][Scroll]你的身上，也流着海拉鲁[Scroll]骑士的血，对吧？[Scroll]既然如此，你就必须将[Waitkey][Scroll]塞尔达公主救出来。[Scroll]只许成功，不许失败！
 310: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]当年，七贤者封印通往黑暗[Scroll]世界的通道时，海拉鲁[Scroll]骑士团为了保护他们，[Waitkey][Scroll]与恶魔展开了一场惨烈[Waitkey][Scroll]的战争。我听说，在那场[Scroll]战役中，骑士团几乎全军[Scroll]覆没...而你，很可能是如今[Waitkey][Scroll]唯一流着他们血脉的后人。[Scroll]如果你真的是那唯一的[Waitkey][Scroll]后人，那么，你就极有可能[Scroll]成为传说中的英雄，[Scroll]也只有你，才有[Waitkey][Scroll]消灭加侬的实力！
 311: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]我听说，古代的海利亚人，[Scroll]和七贤者一样，[Scroll]都拥有神奇的力量。[Waitkey][Scroll]不过随着时间流逝，[Scroll]现在还保有纯正血统的人，[Scroll]已经越来越少了。[Waitkey][Scroll]我们这些贤者的后人，[Waitkey][Scroll]也早就失去了[Scroll]当年的强大魔力。[Scroll]但如果有一位[Waitkey][Scroll]像贤者那样有智慧的骑士，[Waitkey][Scroll]能把勇气和我们结合起来，[Scroll]我们的力量就能大大提升。[Scroll]再过不久，[Waitkey][Scroll]连接两个世界的通道，[Waitkey][Scroll]就会完全打开。[Scroll]如果你能打倒加侬，[Scroll]这个黑暗的世界[Waitkey][Scroll]就会消失。[Waitkey][Scroll]而三角神力，[Scroll]也会等待新的主人。[Waitkey][Scroll]我相信你能做到......[Scroll][Name]，祝你好运！
-312: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]因为加侬自己无法[Scroll]解开七贤者的封印，[Scroll]所以他把我们[Waitkey][Scroll]全都抓了起来。[Waitkey][Scroll]他利用那个叫[Scroll]阿格宁的巫师，[Scroll]把我们送进了[Waitkey][Scroll]黑暗世界。[Scroll]等到他借助我们的力量[Scroll]打开封印之后，[Waitkey][Scroll]就把我们封在这些水晶里，[Waitkey][Scroll]交给他最信任的怪物[Scroll]来严加看守。[Waitkey][Scroll]没想到......[Scroll]你居然能来到这里。[Scroll]现在，塞尔达公主[Waitkey][Scroll]被困在乌龟岩里，[Scroll]你得赶快去救她！
+312: [Speed 02][Position 00][Window 02][Name]，因为你的帮助，[2]我才能从恶魔的囚禁中[3]重获自由，谢谢你。[Waitkey][Scroll]因为加侬自己无法[Scroll]解开七贤者的封印，[Scroll]所以他把我们[Waitkey][Scroll]全都抓了起来。[Waitkey][Scroll]他利用那个叫[Scroll]阿格宁的巫师，[Scroll]把我们送进了[Waitkey][Scroll]黑暗世界。[Scroll]等到他借助我们的力量[Scroll]打开封印之后，[Waitkey][Scroll]就把我们封在这些水晶里，[Waitkey][Scroll]交给他最信任的怪物[Scroll]来严加看守。[Waitkey][Scroll]没想到......[Scroll]你居然能来到这里。[Scroll]现在，塞尔达公主[Waitkey][Scroll]被困在乌龟岩里，[Scroll]你要赶快去救她！
 313: [Speed 02][Position 00][Window 02][Name]，真的很感谢你，[2]一路历尽艰辛来救我。[3]果然不出我所料，[Waitkey][Scroll]你就是传说中的勇者。[Scroll]我们第一次见面时，[Scroll]我就已经感觉到了。[Waitkey][Scroll]加侬现在正待在[Scroll]他的塔里，[Scroll]等待时机，[Waitkey][Scroll]想穿过那条[Waitkey][Scroll]连接两个世界的通道。[Scroll]一旦他进入光明世界，[Scroll]恐怕就再也没人[Waitkey][Scroll]能阻止他了......[Scroll]但只要他还留在[Scroll]这个世界里，[Waitkey][Scroll]就还有机会打败他。[Waitkey][Scroll]我们得马上赶往[Scroll]加侬之塔。[Scroll]只要我们合力，[Waitkey][Scroll]一定能打破他的封印。[Waitkey][Scroll]无论他躲到哪里，[Scroll]我们都能找到他。[Sound 45][Waitkey][Scroll]一定要让和平[Scroll]重新回到这里。[Scroll]这一次，我们绝不能失败！
 314: [Speed 02][Position 00][Window 02]衷心祝福我们的勇者，[2]可以顺利取回三角神力。
 315: [Speed 02][Position 00][Window 02]你明白了吗？[2]    > 明白了[3]       不太明白[Choose]
 316: [Name]，我们七人[2]现在要合力打破[3]加侬之塔的结界！
-317: [Speed 02][Position 00][Window 02][Name]，你能走到这里[2]真是了不起。[3]果然不出我所料，[Waitkey][Scroll]你确实是传说中的勇者，[Scroll]从第一次见面[Scroll]我就有这种感觉。[Waitkey][Scroll]加侬在死亡之山的[Scroll]塔周围设置了结界，[Scroll]正在等待时机穿过[Waitkey][Scroll]两个世界间的通道。[Waitkey][Scroll]如果加侬到达光明世界，[Scroll]可能就再也抓不住[Scroll]他了。[Waitkey][Scroll]但如果他留在这个[Scroll]封闭的世界里，[Scroll]无论他逃到哪里[Waitkey][Scroll]你都能追到他。[Waitkey][Scroll]不过还有女孩[Scroll]需要你去拯救。[Waitkey][Scroll]救出所有人后，[Scroll]就前往加侬之塔。[Waitkey][Scroll]凭借七贤者的血脉，[Scroll]我们一定能突破[Scroll]加侬的结界。[Waitkey][Scroll][Name]......我们要让和平[Scroll]回到这里。
+317: [Speed 02][Position 00][Window 02][Name]，你能走到这里，[2]真是了不起。[3]果然不出我所料，[Waitkey][Scroll]你确实是传说中的勇者，[Scroll]从第一次见面[Scroll]我就有这种感觉。[Waitkey][Scroll]加侬在死亡之山的[Scroll]塔周围设置了结界，[Scroll]正在等待时机穿过[Waitkey][Scroll]两个世界间的通道。[Scroll]如果加侬到达光明世界，[Scroll]可能就再也抓不住他了。[Waitkey][Scroll]但如果他留在这个[Scroll]封闭的世界里，[Scroll]无论他逃到哪里，[Waitkey][Scroll]你都能追到他。[Scroll]然而还有女孩[Scroll]需要你去拯救。[Waitkey][Scroll]救出所有人后，[Scroll]就前往加侬之塔。[Scroll]凭借七贤者的血脉，[Waitkey][Scroll]我们一定能突破[Scroll]加侬的结界。[Scroll][Name]......我们要让和平回到这里。
 318: 啊哈......[Name]！[2]我终于等到你了！[3]哈......哈......哈......[Waitkey][Scroll]我要让你亲眼看着塞尔达[Scroll]是如何在你面前消失的！[Scroll]别眨眼！这是你最后[Waitkey][Scroll]一次见到塞尔达公主了！
 319: 呵呵呵......！这下，[2]七贤者的封印[3]终于彻底解开了！[Waitkey][Scroll]很快，这片大地将被[Scroll]邪恶之力完全吞噬......[Scroll]不过是时间问题罢了。[Waitkey][Scroll]到那时，就连所谓的[Scroll]传说中的勇者，[Scroll]也决不可能战胜我们[Waitkey][Scroll]这些拥有黄金之力的存在！[Scroll]啊哈哈哈......！[Waitkey][Scroll]那么，我就先告辞了！
 320: 哦？哈哈......[2]我看你是自寻死路，[3]想要粉身碎骨、永不超生了？[Waitkey][Scroll]既然这样，[Scroll]我就成全你吧！
@@ -322,12 +322,12 @@
 322: 呣哈哈哈！你能走到这里，[2]真是了不起啊，[Name]。[3]再次见到你我非常高兴。[Waitkey][Scroll]不过很遗憾，[Scroll]这将是我们最后一次见面了。[Scroll]去死吧，你这小鬼！
 323: 嘿呀！[2]稀客啊！[3]想来点什么吗？[Waitkey][Scroll]    > 我想要脚蹼[Scroll]       随便逛逛[Choose]
 324: 哇哈哈！当然不能白送你啦！[2]500卢比怎么样？划算吧？[3]怎么说？[Waitkey][Scroll]    > 给它500卢比[Scroll]       你是奸商[Choose]
-325: 哇哈哈哈！爽快！[2]脚蹼归你啦！送你个小礼！[3]你现在可以使用我们的[Waitkey][Scroll]秘密水道了！[Scroll]它连着海拉鲁的河流和湖泊，[Waitkey][Scroll]见到水里的漩涡[Waitkey][Scroll]就试试钻进去吧！[Scroll]好好利用！哇哈哈！再见！
+325: 哇哈哈哈！爽快！[2]脚蹼归你啦！送你个小礼！[3]你现在可以使用[Waitkey][Scroll]我们的秘密水道了！[Scroll]它连着海拉鲁的河流和湖泊，[Waitkey][Scroll]见到水里的漩涡[Waitkey][Scroll]就试试钻进去吧！[Scroll]好好利用！哇哈哈！再见！
 326: 等你攒够钱再来吧。[2]哇哈哈！回见！
 327: 是吗？[2]想见我的话随时回来。[3]哇哈哈！再见！
-328: 嘿呀，[Name]！[2]长老？你是说爷爷吗？[3]我知道他在哪里，[Waitkey][Scroll]不过，你可千万别让[Scroll]坏人知道哦！[Scroll]他往城堡东边，[Waitkey][Scroll]神殿的方向去了。[Scroll]我帮你在地图上标出来，[Scroll]你去去找他吧！[Sound 45]
+328: 嘿呀，[Name]！[2]长老？你是说爷爷吗？[3]我知道他在哪里，[Waitkey][Scroll]不过，你可千万[Scroll]别让坏人知道哦！[Scroll]他往城堡东边，[Waitkey][Scroll]神殿的方向去了。[Scroll]我帮你在地图上标出来，[Scroll]你去找他吧！[Sound 45]
 329: 你找到爷爷了吗？[2]等坏人都离开村子，[3]爷爷就可以回来了。
-330: 哟，这张脸，我可没见过！[2]你也是为了黄金之力[3]而来的吗？[Waitkey][Scroll]不过很可惜你来晚了。[Scroll]他只会听从第一个[Waitkey][Scroll]触碰它的人的意志。[Scroll]而那个人......[Scroll]已经将这个世界，[Waitkey][Scroll]扭曲成了如今这副模样。[Waitkey][Scroll]正如他那颗堕落而邪恶的心。[Scroll]我也是，为了得到那份[Scroll]力量才来到这里。[Waitkey][Scroll]可结果呢？看看我[Scroll]现在这副模样......[Scroll]如果想让黄金大陆[Waitkey][Scroll]恢复原状，就必须由一个[Scroll]真正有资格的人，[Waitkey][Scroll]去打倒创造了这个世界的人。[Scroll]到那时......我或许也能，[Waitkey][Scroll]摆脱这副令人厌恶的形态。[Scroll]不过，这终究只是个[Scroll]遥不可及的幻想......[Scroll]黄金之力......三角神力......
+330: 哟，这张脸，我可没见过！[2]你也是为了黄金之力[3]而来的吗？[Waitkey][Scroll]不过很可惜你来晚了。[Scroll]他只会听从第一个[Waitkey][Scroll]触碰它的人的意志。[Scroll]而那个人......[Scroll]已经将这个世界，[Waitkey][Scroll]扭曲成了如今这副模样，[Waitkey][Scroll]正如他那颗堕落而邪恶的心。[Scroll]我也是，为了得到那份力量[Scroll]来到这里。[Waitkey][Scroll]可结果呢？[Scroll]看看我现在这副模样......[Scroll]如果想让黄金大陆恢复原状，[Waitkey][Scroll]就必须由一个[Scroll]真正有资格的人，[Waitkey][Scroll]去打倒创造了这个世界的人。[Scroll]到那时......我或许也能，[Waitkey][Scroll]摆脱这副令人厌恶的形态。[Scroll]不过，这终究只是个[Scroll]遥不可及的幻想......[Scroll]黄金之力......三角神力......
 331:        --神秘之泉--[2]要扔点什么进去吗？[3]你想怎么做？[Waitkey][Scroll]    > 扔件道具[Scroll]       不了[Choose]
 332: 不扔了！
 333: 不扔了！
@@ -347,7 +347,7 @@
 347: 让我抚平你的伤痛，[2]带走你的疲惫......[3]闭上眼睛，[Waitkey][Scroll]安心休息片刻。
 348: 哦？你是谁呀，小兔子？[2]这个世界和光明世界很相似，[3]但却充满着邪恶气息...[Waitkey][Scroll]黄金之力会根据你的内心[Scroll]和灵魂改变你的外形。[Scroll]我的内心经常变动，[Waitkey][Scroll]所以我变成了一个球......[Scroll]不过，有一样球形的宝物，[Scroll]好像叫做月之珍珠，[Waitkey][Scroll]可以让你保持原形不变。[Scroll]啊！他又来了......
 349: 你......竟然没有发生变形？[2]你并不是普通人......对吧？
-350: 你想做什么？！[2]你这只愚蠢的兔子，[3]有话要跟我说吗？！[Waitkey][Scroll]我本来是寻找黄金之力[Scroll]的，可现在却变成了这个[Waitkey][Scroll]样子，也不知道怎样回到[Waitkey][Scroll]原来的世界了！如果[Scroll]我有赫拉之塔里面的[Scroll]月之珍珠，我就可以恢复[Waitkey][Scroll]原来的样子了！我现在很[Waitkey][Scroll]生气！随时都有可能爆发的！[Scroll]你最好离我远一点！嘣......！
+350: 你想做什么？！[2]你这只愚蠢的兔子，[3]有话要跟我说吗？！[Waitkey][Scroll]我本来是寻找黄金之力的，[Scroll]可现在却变成了这个样子，[Waitkey][Scroll]我不知道怎样回到[Waitkey][Scroll]原来的世界了！[Scroll]如果我有赫拉之塔里面的[Scroll]月之珍珠，我就可以恢复[Waitkey][Scroll]原来的样子了！[Waitkey][Scroll]我现在很生气！[Scroll]随时都有可能爆发的！[Scroll]你最好离我远一点！嘣......！
 351: 什么？你居然没有变形！[2]难道说...你有月之珍珠？
 352: 在这个充满危险的世界里，[2]你一定需要各种装备和补给。[3]挑选需要的东西吧......
 353: 只要30卢比，[2]你就可以打开一个箱子，[3]拿走里面的东西。[Waitkey][Scroll]你要怎么做？[Scroll]    > 去开箱子[Scroll]       离开这里[Choose]
@@ -365,11 +365,11 @@
 365: 谢谢惠顾！[2]这个能恢复一颗心。
 366: 如果你没有空瓶子，[2]我就不能卖给你。
 367: 现在带不了更多了，[2]以后再来吧！
-368: 没想到你这小鬼[2]居然能追到金字塔[3]这里来。[Waitkey][Scroll]更没想到你竟然能[Scroll]两次击败我的分身[Scroll]邪恶巫师阿格宁！[Waitkey][Scroll]但即便如此，你也休想[Scroll]从我手中夺走[Scroll]三角神力。[Waitkey][Scroll]我要消灭你，小鬼，[Scroll]我统治光明与黑暗[Scroll]两个世界的愿望[Waitkey][Scroll]绝对会实现的！
+368: 没想到你这小鬼[2]居然能追到金字塔[3]这里来。[Waitkey][Scroll]更没想到你竟然能[Scroll]两次击败我的分身[Scroll]邪恶巫师阿格宁！[Waitkey][Scroll]但即便如此，你也休想[Scroll]从我手中夺走三角神力。[Scroll]我要消灭你，小鬼，[Waitkey][Scroll]我统治光明与黑暗[Scroll]两个世界的愿望[Scroll]绝对会实现的！
 369: 不错嘛，小鬼！[2]现在看看你能不能破解[3]我最终的黑暗秘术！[Waitkey][Scroll]接招吧！
-370: 喂！小孩，这是强盗们藏身[2]的秘密地方！[3]未经允许禁止进入！[Waitkey][Scroll]哎，对了，[Scroll]我听说有个老伙计[Scroll]留在沙漠那里。[Waitkey][Scroll]也不知道他在那里搞什么。
+370: 喂！小孩，这是强盗们[2]藏身的秘密地方！[3]未经允许禁止进入！[Waitkey][Scroll]哎，对了，[Scroll]我听说有个老伙计[Scroll]留在沙漠那里。[Waitkey][Scroll]也不知道他在那里搞什么。
 371: 哟，[Name]！[2]听说这屋子以前是[3]一伙强盗藏身的地方。[Waitkey][Scroll]他们头领的名字......[Scroll]哦对了，他的外号叫瞎子，[Scroll]是个特别害怕见光的家伙。
-372: [Speed 02][Position 00][Window 02]欢迎你，[Name]......[2]我是三角神力之灵。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]三角神力，又名[2]"黄金之力"，[3]是众神赐予的神器，[Waitkey][Scroll]能实现触碰它的人[Scroll]内心的愿望。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]心怀正义之人触碰，[2]正义的愿望就会实现，[3]而心怀邪恶之人触碰，[Waitkey][Scroll]邪恶的愿望就会实现。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]愿望越发自内心，[2]三角神力就会越[3]强烈将其实现。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]加侬的愿望是征服[2]这个世界。他触碰了[3]三角神力，他邪恶的[Waitkey][Scroll]愿望将圣地变成了[Scroll]黑暗世界。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]加侬留在这片土地上[2]蛰伏蓄力。他企图[3]征服光明世界，让他的[Waitkey][Scroll]愿望彻底实现。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]但加侬已被打败，[2]黑暗世界将随他[3]一同消失。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]三角神力在等待[2]新的主人。它的[3]黄金之力在你的手中。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]带着你心中的愿望，[2]来触碰三角神力吧！
+372: [Speed 02][Position 00][Window 02]欢迎你，[Name]......[2]我是三角神力之灵。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]三角神力，[2]又名"黄金之力"，[3]是众神赐予的神器，[Waitkey][Scroll]能实现触碰它的人[Scroll]内心的愿望。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]心怀正义之人触碰，[2]正义的愿望就会实现，[3]而心怀邪恶之人触碰，[Waitkey][Scroll]邪恶的愿望就会实现。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]愿望越发自内心，[2]三角神力就会[3]越强烈将其实现。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]加侬的愿望是[2]征服这个世界。[3]他触碰了三角神力，[Waitkey][Scroll]他邪恶的愿望将圣地[Scroll]变成了黑暗世界。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]加侬留在这片土地上[2]蛰伏蓄力。[3]他企图征服光明世界，[Waitkey][Scroll]让他的愿望彻底实现。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]但加侬已被打败，[2]黑暗世界将[3]随他一同消失。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]三角神力正在等待[2]新的主人。[3]它的黄金之力在你的手中。[Speed 01][Waitkey][1]                                          [2]                                          [3]                                          [Speed 02][1]带着你心中的愿望，[2]来触碰三角神力吧！
 373: 拿去吧，[2]你这贪心鬼！
 374: 喔......我见过她了。[2]真是位非常美丽的姑娘。[3]她就在河流源头的高山[Waitkey][Scroll]附近，那座愿望瀑布里......[Scroll][Name]，你要是有空，[Scroll]一定要去见见她，[Waitkey][Scroll]我敢保证，[Scroll]你一定会喜欢她的。
 375: 这是我们之间的秘密。
@@ -389,7 +389,7 @@
 389: [Position 00][Speed 00]>从[Name]的家出发[2]  从教堂出发[Choose2]
 390: [Position 00][Speed 00]>从[Name]的家出发[2]  从教堂出发[3]  从山洞出发[Choose3]
 391: [Speed 00]> 继续游戏[2]   保存并退出[Choose2]
-392: 欢迎来到挖掘游戏！[2]30秒内可以尽情挖掘，[3]挖到的东西都是你的！[Waitkey][Scroll]玩一次80卢比，怎么样？[Scroll]    > 我要挖[Scroll]       不想挖[Choose]
+392: 欢迎来玩挖掘游戏！[2]30秒内可以尽情挖掘，[3]挖到的东西都是你的！[Waitkey][Scroll]玩一次80卢比，怎么样？[Scroll]    > 我要挖[Scroll]       不想挖[Choose]
 393: 铁铲先借给你用！[2]准备好后按[Y]键开挖！
 394: 好吧，我不勉强你，[2]攒够卢比再来吧。
 395: 时间到了，欢迎下次再来！
